@@ -1,0 +1,1357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infant-baptism and church-membership proved: and also the mode of baptism to be by sprinkling &amp;c. In answer to Mr. Benjamin Dennie's book. By Giles Shute of Limehouse.</title>
+            <author>Shute, Giles, b. 1650 or 51.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93239</idno>
+            <idno type="STC">Wing S3708</idno>
+            <idno type="STC">ESTC R231568</idno>
+            <idno type="EEBO-CITATION">99896840</idno>
+            <idno type="PROQUEST">99896840</idno>
+            <idno type="VID">137074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infant-baptism and church-membership proved: and also the mode of baptism to be by sprinkling &amp;c. In answer to Mr. Benjamin Dennie's book. By Giles Shute of Limehouse.</title>
+                  <author>Shute, Giles, b. 1650 or 51.</author>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.R. and are to be sold by Nath. Hiller, at the Princes-Armes in Lenden-Hall-street; and at the author's-house in Limehouse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price three pence.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Infant salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137074:1" rendition="simple:additions"/>
+            <p>Infant-Baptiſm AND Church-Memberſhip PROVED: And alſo the <hi>Mode of Baptiſm</hi> TO BE By SPRINKLING, <hi>&amp;c.</hi>
+            </p>
+            <p>In Anſwer to Mr. <hi>Benjamin Dennis</hi>'s Book.</p>
+            <p>By <hi>Giles Shute</hi> of <hi>Limehouſe.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. R.</hi> and are to be ſold by <hi>Nath. Hiller,</hi> at the <hi>Princes-Arms</hi> in <hi>Leaden-Hall-ſtreet;</hi> and at the Author's Houſe in <hi>Lime<g ref="char:EOLhyphen"/>houſe.</hi> 1695.</p>
+            <p>Price Three Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:137074:2"/>
+            <pb n="3" facs="tcp:137074:2"/>
+            <head>Here followeth ſome <hi>Obſervations</hi> I have made upon the Principal <hi>Arguments</hi> Mr. <hi>B. D.</hi> hath pro<g ref="char:EOLhyphen"/>duced againſt <hi>Infant-Baptiſm</hi> and <hi>Church-Memberſhip,</hi> in his Book, Intituled, <hi>Brief Remarks upon the</hi> Epiſtle <hi>of Mr.</hi> Fran. Mence<hi>'s Book, Intituled,</hi> Vindiciae Foederis.</head>
+            <p>I Cannot but acknowledge with deep regret of Spirit, that I ſhould have ſuch a juſt occaſion offered unto me, to controvert theſe Points with my indeared Friend and very good Neigh<g ref="char:EOLhyphen"/>bour Mr. <hi>B. D.</hi> whom I eſteem and honour, who of himſelf, ſeparate from that part of his Prin<g ref="char:EOLhyphen"/>ciple, is very moderate and civil: But I cannot poſſibly avoid this my Proceedings, in point of Honour and Veneration to that Eminent Servant of the Lord, Reverend Mr. <hi>Mence,</hi> ſubordinate to the Honour and Glory of God, which is that I aim at above all.</p>
+            <p n="1">1. Becauſe while he was Anſwering Mr. <hi>H. C</hi>'s. Book, in vindicating and clearing himſelf from the many abominable falſe Accuſations and Ca<g ref="char:EOLhyphen"/>lumnies which Mr. <hi>C.</hi> laid to his Charge, juſt as Mr. <hi>Mence</hi>'s Book was ready for the Preſs, Mr. <hi>B. D.</hi> very ungentily falls upon him alſo publickly in print, ſo that Mr. <hi>M.</hi> had not time to Anſwer his whole Book; but he hath fully Anſwered that part of it wherein Mr. <hi>D.</hi> bore ſo hard upon his
+<pb n="4" facs="tcp:137074:3"/> Credit and Reputation, by his endeavouring vindicate and juſtifie Mr. <hi>C.</hi> as may be ſeen in the <hi>Poſtſcript</hi> of Mr. <hi>M</hi>'s. Book.</p>
+            <p n="2">2. I have as much reaſon, and as clear a Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to vindicate and juſtifie Mr. <hi>M.</hi> as Mr. <hi>D.</hi> had t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vindicate and juſtifie Mr. <hi>C.</hi> and a great deal more for the former had Truth on his ſide, but th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> latter had not.</p>
+            <p n="3">3. My Third Reaſon for it is, Becauſe Mr. <hi>D.</hi> hath ſhot at me through Mr. <hi>M.</hi> Sides, although he hath not mentioned my Name, <hi>viz.</hi> in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> groſs Reflection upon ſomething I writ former<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concerning the preventing Grace of Habita<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith, in my <hi>Replication</hi> to Mr. <hi>H. C</hi>'s. Book agai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it; which Doctrine I ſhall, in my way, plain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove and vindicate again in this inſuing Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>courſe.</p>
+            <p n="4">4. I have not ingaged at this time in this Con<g ref="char:EOLhyphen"/>troverſie, to undervalue nor diminiſh the Rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tation of worthy Mr. <hi>M.</hi> whom I highly eſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and honour, as if he had not been able to ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anſwered his whole Book himſelf as well as part thereof; but, as I hinted before, he v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtraitened for time.</p>
+            <p n="5">5. Neither did I undertake it without Mr. <hi>M.</hi> conſent and approbation.</p>
+            <p n="6">6. And Laſtly: I ſhall take all the care I ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to avoid all undue, unbecoming Reflections, more than purely what the nature of things calls fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and will juſtly bear, becauſe I will not give an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt occaſion of offence. Thus having cleared <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way, I ſhall now proceed to the matter in han<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And,</p>
+            <p>Firſt of all: I ſhall begin with Mr. <hi>B. D</hi>'s. Firſt Argument, which is as followeth:</p>
+            <p>In <hi>page</hi> 2. ſaith he, <hi>It is none of the mea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Arguments with me againſt Infant-Baptiſm, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Authorities brought for it are ſo often changed, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:137074:3"/> the Mediums to prove it ſo conteſted among the perſons who agree in this only, To practice it.</hi>
+            </p>
+            <p>To which Argument I thus reply:</p>
+            <p n="1">1. <hi>It is none of the meaneſt Arguments with me</hi> (ſaith Mr. <hi>D.) againſt Infant-Baptiſm, &amp;c.</hi> There<g ref="char:EOLhyphen"/>fore it muſt be one of his greateſt and chiefeſt Arguments againſt it. But let us ſee what this Lo<g ref="char:EOLhyphen"/>gick of our Opponents will afford us.</p>
+            <p n="1">1. If difference in Opinion be ſuch an infallible Argument againſt us, ſo as to decide the Contro<g ref="char:EOLhyphen"/>verſie, then thoſe that have the greateſt difference among themſelves in Opinion, muſt yeild and ſubmit unto the other Party that hath the leaſt: And if this be granted, as inevitably it muſt ac<g ref="char:EOLhyphen"/>cording to Mr. <hi>D</hi>'s. <hi>Theſis,</hi> then I doubt not but that we ſhall find a great opportunity to fur<g ref="char:EOLhyphen"/>niſh our ſelves, out of our Opponent's Arcenal, to prove Infant-Baptiſm to be Authentick; for I know not of any ſort of People among us Prote<g ref="char:EOLhyphen"/>ſtants, that differ ſo much in Opinion as thoſe do that are againſt Infant-Baptiſm; and therefore I ſhall proceed to name ſome of them.</p>
+            <p n="1">1. There are <hi>Arminians,</hi> that hold General Re<g ref="char:EOLhyphen"/>demption and Falling away from True Grace, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. There are thoſe that hold the mortality of the Soul with the diſſolution of the Body, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. There are a ſort among them that are called <hi>Seekers;</hi> and theſe are the moderateſt of them all.</p>
+            <p n="4">4. There are thoſe that hold the Seventh day of the Week to be the weekly Sabbath, even as he Jews do; and I have heard of ſome that have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravelled further in that Jewiſh Road, <hi>viz.</hi> to Cir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umciſion.</p>
+            <p n="5">5. There are thoſe to be found among them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat are <hi>Socinians,</hi> who deny the Deity of Chriſt,</p>
+            <p n="6">
+               <pb n="6" facs="tcp:137074:4"/>6. There is another ſort among them who pro<g ref="char:EOLhyphen"/>vide Legs of mutton for Supper at the Lords Table, juſt before they Celebrate the Lords-ſupper: But I know not what Reaſon they can produce for ſuch a practice as that, unleſs it is becauſe o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Saviour Chriſt did eat the Paſſover juſt before he inſtituted the Lords-ſupper; at which time be aboliſhed it, with all the reſt of the Ceremonial Law, Sabbath and all, and freed us from the Paſſ<g ref="char:EOLhyphen"/>over for ever.</p>
+            <p n="7">7. There are ſome few among ſeveral ſorts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe, that are for Singing of Pſalms.</p>
+            <p n="8">8. There are a ſort of this Opinion in <hi>Germa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that are for ſprinkling and pouring water on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Head and Face only in Baptiſm; and I have lat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heard, that ſome of them practice ſprinkling <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Baptiſm here in <hi>England.</hi>
+            </p>
+            <p n="9">9. And Laſtly: There are another ſort of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who are reckoned the ſoundeſt of them, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> differ from moſt of all the reſt.</p>
+            <p>Now it hath been obſerved by ſome, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not Two Congregations to be found among <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one ſort of theſe I have named, that agree in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> points one with the other, but differ in Opi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in themſelves: No, nor one Congregation it ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but differs in their Opinion one with anoth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Now all theſe agree in nothing but in the Subj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and mode of their Baptiſm, namely, in dipping <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Adult (thoſe only excepted that are for ſprinkling Now if Mr. <hi>D.</hi> cannot find out ſo many diffe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Opinions among us Proteſtants, who are for Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> baptiſm, then the Argument is clearly falle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Side; Therefore I challenge Mr. <hi>D.</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out ſo many ſorts among us who are for Infa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> baptiſm, that do ſo vaſtly differ in Judgment o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from another, as thoſe do which I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nay, as for Mr. <hi>D.</hi> himſelf, ſhould his Book <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrictly examined, and compared with Mr. <hi>H. C.</hi>
+               <pb n="7" facs="tcp:137074:4"/> and Mr. <hi>B. K</hi>'s. Books, it will evidently appear, that as thoſe Two Noted Authours contradicted one another, and themſelves to boot, even ſo hath M. <hi>D.</hi> contradicted them both, and himſelf into the bargain, as I ſhall clearly prove upon him hereafter.</p>
+            <p>Thus you ſee one of Mr. <hi>D</hi>'s. Topping Argu<g ref="char:EOLhyphen"/>ments againſt Infant-baptiſm utterly deſtroyed, and himſelf out-ſhot in his own bow.</p>
+            <p n="2">2. Saith Mr. <hi>D.</hi> in <hi>page</hi> 2. That <hi>a poſitive Right that flows only from the Will of the Legiſlator, ſuch as Baptiſm is, both as to the Subject and the manner of its Administration, ſhould have by you its foundation in the Covenant made with</hi> Abraham <hi>in</hi> Gen. 17. <hi>re<g ref="char:EOLhyphen"/>lating to his Natural poſterity,</hi> &amp;c.</p>
+            <p>To which I Anſwer as followeth:</p>
+            <p n="1">1. Saith Mr. <hi>D. A poſitive Right, both as to the ſubject and the manner of its Adminiſtration,</hi>— By which he intends dipping of the Adult onely: But he hath not proved it, neither can he (I am ſure) ſo long as he lives: For firſt, he cannot prove it by St. <hi>John the Baptiſt,</hi> who was the firſt that ever Adminiſtred that Ordinance after the coming in of the New Diſpenſation of the Goſpel; for he baptized <hi>Jeruſalem,</hi> and all <hi>Judea,</hi> and all the Region round about <hi>Jordan, Mat.</hi> 3. Now if <hi>Jeruſalem</hi> was baptized, then Infants were bapti<g ref="char:EOLhyphen"/>zed; for otherwiſe it could not be ſaid, that <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> was baptized; for no doubt, but there were abundance of Infants in ſuch a great and populous City as that was: Therefore <hi>John</hi> bapti<g ref="char:EOLhyphen"/>zed Infants as well as Adult perſons, or elſe he could not baptize <hi>Jeruſalem.</hi>
+            </p>
+            <p n="2">2. He baptized all <hi>Judea,</hi> and all the Region round about <hi>Jordan;</hi> he baptized all that came, or were brought, unto him; and the Scriptures are true, and cannot be broken.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:137074:5"/>3. This <hi>all</hi> here mentioned could not be com<g ref="char:EOLhyphen"/>prehenſive of every individual Perſon; but if it had been ſo, young Infants muſt have been inclu<g ref="char:EOLhyphen"/>ded therein alſo.</p>
+            <p n="4">4. I humbly conceive this <hi>all</hi> is to be under<g ref="char:EOLhyphen"/>ſtood of ſome of all Ages and Sects, <hi>viz.</hi> men, women, and children; and to deny both theſe Senſes of it, is to lay violent hands upon the Sa<g ref="char:EOLhyphen"/>cred Scripture, for if either of theſe had been excluded, it could not have been <hi>all.</hi> But,</p>
+            <p n="2">2. We do not find that St. <hi>John</hi> did baptize any but thoſe of the Circumciſion.</p>
+            <p n="3">3. He did not refuſe any of the <hi>Jews,</hi> the Stock of <hi>Abraham,</hi> that came to his Baptiſm, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not wilfully and obſtinately reject it them<g ref="char:EOLhyphen"/>ſelves, though ar the ſame time he forbad them to take up and reſt in their Covenant-relation to <hi>Abraham.</hi>
+            </p>
+            <p n="4">4. All thoſe that were baptized by St. <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> were not all true Believers, becauſe we find that many that were Followers of Chriſt, and cryed <hi>Hoſanna</hi> unto him at one time, cryed <hi>Away with him, Crucifie him</hi> at another: For St. <hi>John</hi> bap<g ref="char:EOLhyphen"/>tized with water unto Repentence. Thus you ſee I have clearly proved from the Scripture, That <hi>John</hi> baptized Infants as well as Adult Per<g ref="char:EOLhyphen"/>ſons: Therefore on whoſe Side lyeth the <hi>poſitive Right</hi> now, on yours or ours, think you?</p>
+            <p n="2">2. I obſerve that when ever our Opponent have occaſion to mention any thing about Gods Covenant eſtabliſhed with <hi>Abraham,</hi> they will not lay down the Covenant fairly at length, and ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the parts of it, and rightly divide and explai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, that People might readily ſee the extent of it, whether it was extended to the male children only (as ſome without ground ſuggeſt, becauſe the male children only were circumciſed) or to both ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and female; Therefore I will lay it down i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:137074:5"/> them, and make ſome Obſervations on it, and draw ſome Concluſions therefrom.</p>
+            <p>Gen. 17.7, 11. <hi>And I will eſtabliſh my covenant between me and thee, and thy ſeed after thee, in their generations, for an everlaſting covenant; to be a God unto thee, and to thy ſeed after thee.</hi>
+            </p>
+            <p n="1">1. All thoſe with whom God eſtabliſhed his Covenant are included in the Token thereof, the female Seed of <hi>Abraham</hi> as well as the males, un<g ref="char:EOLhyphen"/>leſs it could be proved that the females were no part of <hi>Abraham</hi>'s Seed: For,</p>
+            <p n="2">2. Though Circumciſion, as to the Letter of it, belonged only to the male Seed, yet the vertue and efficacy thereof extended to the female ſeed alſo, becauſe after God had eſtabliſhed his Cove<g ref="char:EOLhyphen"/>nant with <hi>Abraham</hi> and his Seed, he ſaid, without variation or change of Speech, in <hi>verſe</hi> 11.</p>
+            <p>
+               <hi>Ye ſhall circumciſe the fleſh of your fore-skin, and it ſhall be [a] token of the covenant betwixt me and you.</hi>
+            </p>
+            <p>Who are theſe <hi>[you]</hi> that God eſtabliſhed the Covenant with? Were they <hi>Abraham</hi> and his male Seed only? No; it was <hi>Abraham</hi> and all his Seed, both male and female, very few excepted.</p>
+            <p n="3">3. Here is another thing to be obſerved which is very important, with a reſpect to the Contro<g ref="char:EOLhyphen"/>verſie in hand, and that is this, <hi>viz.</hi>
+            </p>
+            <p n="1">1. This Token of the Covenant is called <hi>[a]</hi> Token of the Covenant; but the Token of the Covenant God eſtabliſhed with <hi>Noah,</hi> is called <hi>[the]</hi> Token of the Covenant: And the Reaſons of it, I humbly conceive, are principally theſe Two.</p>
+            <p n="1">1. Becauſe the Rain-bow is perpetual, and was to have no Succeſſor; and therefore it is empha<g ref="char:EOLhyphen"/>tically called <hi>[the]</hi> Token of the Covenant.</p>
+            <p n="2">2. The other was called <hi>[a]</hi> Token of the Covenant becauſe it was to have a Succeſſor, being
+<pb n="10" facs="tcp:137074:6"/> it was to expire, and come to an end, with the Ceremonial Law.</p>
+            <p n="3">3. What was to ſucceed and ſupply the room of Circumciſion if Baptiſm doth not? For there were no other Ordinances of God, that either then had, or now have, to do with the Subjects external part of the Fleſh, but theſe Two, namely, Circumciſion and Baptiſm.</p>
+            <p n="4">4. Neither were there then, nor are there now, any other Ordinances of God wherein the Sub<g ref="char:EOLhyphen"/>jects were then, or are now, wholly paſſive, but theſe Two, <hi>viz.</hi> Circumciſion and Baptiſm: For, as none were to circumciſe themſelves then, ſo none are to baptize themſelves now.</p>
+            <p n="5">5. For a further confirmation of what I have ſaid touching theſe things, pray obſerve, and take good notice, and you ſhall find, that Cir<g ref="char:EOLhyphen"/>cumciſion and Baptiſm are both joyned together in the Antitype, <hi>viz.</hi> 1. Circumciſion of the Heart; and 2. Baptiſm of the Holy Ghoſt; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which all the Subjects are paſſive: And theſe are both one and the ſame; for Circumciſion of the Heart is Baptiſm of the Holy Ghoſt, and Baptiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Holy Ghoſt is Circumciſion of the Heart that is, Regeneration and Sanctification, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pure preventing Grace.</p>
+            <p>Mr. <hi>H. C.</hi> hath ſo far yeilded unto the Truth theſe Things aforeſaid, as that he hath publick declared in Print, <hi>viz.</hi> That <hi>as Circumciſion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the door of entrance into the Jewiſh Church, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> national, ſo Baptiſm is the door of entrance now i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Goſpel-Church, which is congregational.</hi>
+            </p>
+            <p>Now if the female Seed of <hi>Abraham</hi> were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as much intereſſed in the benefit of Circumciſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the male ſeed were, then no women could <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> entred in at that door into the Jewiſh Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and been Members of it; for that door <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have been ſhut, and faſt bar'd againſt them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:137074:6"/> This muſt be granted, <hi>viz.</hi> Either the female ſeed of the Jews had a benefit by Circumciſion as much as the male ſeed had, or they could not have been Members of the Church with them; for other<g ref="char:EOLhyphen"/>wiſe, they muſt deny all Women entrance into the Goſpel-Church by the door of Baptiſm, be<g ref="char:EOLhyphen"/>cauſe as Circumciſion was the door of entrance to all the Members of the former, even ſo Baptiſm is now the door of entrance to all the Members of the latter. Thus you ſee all the Arguments to prove the contrary are confuted, notwithſtanding Mr. <hi>D</hi>'s. ſaying, that the male children of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s natural Poſterity were only to be circum<g ref="char:EOLhyphen"/>ciſed; and his wondering, that from this Cove<g ref="char:EOLhyphen"/>nant ſhould be devolved a Right on the Gentile Church to baptize their Children, both males and females, is brought to nought.</p>
+            <p n="6">6. And laſtly: I ſhall humbly offer ſome Rea<g ref="char:EOLhyphen"/>ſons why the male children were to be circumci<g ref="char:EOLhyphen"/>ſed, and not the females.</p>
+            <p n="1">1. It was to praefigurate the death and ſuffer<g ref="char:EOLhyphen"/>ings of Chriſt, who was given for a Covenant of the People, and was to be cut off and die for the Sins of his People: Therefore as St. <hi>Paul</hi> ſaith in another caſe, <hi>Was Paul crucified?</hi> ſo ſay in this, <hi>viz.</hi> Was a female to be crucified for the ſins of the People? I think there are none but will deny, that</p>
+            <p n="2">2. This alſo was the reaſon why the Paſchal Lamb for Sacrifice muſt be a male of the flock without blemiſh, and not a female; which did likewiſe praefigurate Chriſt's Incarnation and Cru<g ref="char:EOLhyphen"/>cifiction: For, 1. He muſt be a man, and not a woman: 2. He muſt be a man without ſin: 3. He muſt be taken out of the flock of God, namely, the Tribe of <hi>Judah:</hi> 4. And laſtly: He muſt be offered up without ſpot to God, for the ſins of his People, 1 <hi>Cor.</hi> 5.7.</p>
+            <pb n="12" facs="tcp:137074:7"/>
+            <p>Therefore, for theſe Reaſons, the male child<g ref="char:EOLhyphen"/>ren were circumciſed, and not the female: But yet notwithſtanding, the female ſeed of <hi>Abraham</hi> were as much in the Covenant of Grace, and ſhared as much in the Redeeming Love of Chriſt, as ever the male children of <hi>Abraham</hi> did.</p>
+            <p n="3">3. The Token of the Covenant was, and ſtill is, to be on the fleſh, becauſe all fleſh had corrup<g ref="char:EOLhyphen"/>ted its way; therefore nothing ſhort of the death and ſufferings of Chriſt could appeaſe the Wrath of God, and reconcile him unto us, and retrieve us from that loſt and condemned ſtate of ſin and miſery, into which the Fall of <hi>Adam</hi> had involv'd us: But Chriſts Deity did not ſuffer, for it was impoſſible; it was only the Humane Nature of Chriſt that ſuffered, and was cut off, but not for himſelf, but for the ſins of the People, <hi>Dan.</hi> 9. <hi>And after threeſcore and two weeks ſhall Meſſiah be cut off:</hi> There was the Antitype, or end of Cir<g ref="char:EOLhyphen"/>cumciſion; for he ſuffered both in body and ſoul, <hi>Iſa.</hi> 53.11. <hi>His ſoul was made an offering for ſin.</hi> Thus I have proved, That the female ſeed of <hi>Abraham</hi> were intereſſed in the Token of the Co<g ref="char:EOLhyphen"/>venant as well as the males; and ſo are all the ſeed of Believers now, and have all a Right to the Ordinance of Water-baptiſm, the ſucceſſive Token of the Covenant of Grace: For as Circumciſion of the Heart, and Baptiſm of the Holy Ghoſt, both ſignifieth one and the ſame thing, even ſo Circumciſion in the Letter, and Baptiſm with Water, ſignifieth one and the ſame thing, namely, Regeneration and Sanctification by the death, me<g ref="char:EOLhyphen"/>rits, and Spirit of Chriſt.</p>
+            <p n="3">3. Mr. <hi>D.</hi> hath poſitively aſſerted, That the Covenant God eſtabliſhed with <hi>Abrahnm,</hi> and his Seed, was a Covenant of peculiarity, <hi>viz.</hi> a Co<g ref="char:EOLhyphen"/>venant made peculiarly with <hi>Abraham,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Natural poſterity; but this I ſhall make appear
+<pb n="13" facs="tcp:137074:7"/> to be a very groſs miſtake, for ſeveral Reaſons:</p>
+            <p n="1">1. Becauſe it was not a new made Covenant with <hi>Abraham</hi> which never had a being before, as appeareth by the very words in Gods Declaration to <hi>Abraham, viz.</hi> for thus ſaith the Lord, <hi>And I will eſtabliſh my covenant between me and thee, and thy ſeed after thee,</hi> &amp;c. Though it is true, that it was new to <hi>Abraham</hi> and his ſeed, becauſe they were never in it before.</p>
+            <p n="2">2. This Covenant which God calls <hi>my covenant,</hi> which he eſtabliſhed with <hi>Abraham</hi> and his ſeed, is the ſame which God made <hi>(firſt,)</hi> with <hi>Adam,</hi> and his ſeed after the Fall, <hi>Gen.</hi> 3.15. and <hi>(ſe<g ref="char:EOLhyphen"/>condly,)</hi> it's the ſame which God eſtabliſhed with <hi>Noah,</hi> and his ſeed, after the Floud; for God uſed the very ſame frame of Speech with <hi>Noah</hi> as he did with <hi>Abraham,</hi> as you may ſee <hi>Gen.</hi> 9.9. <hi>And I, behold I, eſtabliſh my covenant with you, and with your ſeed after you:</hi> That was with <hi>Noah</hi> and his Houſhold, and their Poſterity. <hi>Gen.</hi> 7.17. <hi>And I will eſtabliſh my covenant between me and thee, and thy ſeed after thee.</hi>
+            </p>
+            <p n="1">1. <hi>Behold, I eſtabliſh my covenant,</hi> &amp;c.</p>
+            <p n="2">2. <hi>And I will eſtabliſh my covenant,</hi> &amp;c.</p>
+            <p>What difference is there between theſe Two eſtabliſhments of the Covenant? Even none at all. Then it muſt be one and the ſame Covenant; nay, God telleth us ſo; for both to the one and to the other, God calls it emphatically <hi>my cove<g ref="char:EOLhyphen"/>nant.</hi> So it was not a Covenant made peculiarly to <hi>Abraham</hi> and his natural poſterity.</p>
+            <p n="2">2. Let us addreſs our ſelves to Gods frame of Speech concerning the Tokens of the one and of the other.</p>
+            <p n="1">1. In <hi>Gen.</hi> 9.12. <hi>And God ſaid, This is the token of the covenant which I make between me and you:</hi> That was <hi>Noah</hi> and his Houſhold.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:137074:8"/>2. In <hi>Gen.</hi> 17.11. <hi>And ye ſhall circumciſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fleſh of your fore-skin, and it ſhall be a token of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> covenant betwixt me and you.</hi> But it may be Ob<g ref="char:EOLhyphen"/>jected, What congruity or agreement is there be<g ref="char:EOLhyphen"/>tween theſe two Tokens of the Covenant, to the Rain-bow and Circumciſion? Why there is a very ſweet agreement between them both; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in effect, it's one and the ſame; for they are bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Tokens of God's Love and Grace, primarily an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſpecially unto his own covenanting people.</p>
+            <p n="3">3. Perſons may as well ſay, That the Rain-bow is the Covenant, as to ſay that Circumciſion is the Covenant, being both but Tokens thereof.</p>
+            <p n="4">4. The Covenant of Grace had its beginning at the Fall of <hi>Adam;</hi> for had our Firſt Parent ſtood in their primitive ſtate of innocency, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would have been no room for the Exerciſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace and Mercy; for miſery, in a ſenſe, may be ſaid to beget Grace and Mercy; for in <hi>Gen.</hi> 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. there came in all our miſery; and in <hi>verſe</hi> 15 there came in Gods free preventing Grace a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mercy, which is his Darling Attribute; for Mer<g ref="char:EOLhyphen"/>cy is his delight.</p>
+            <p n="5">5. The Covenant of Grace ran down in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neal Deſcent from <hi>Adam</hi> and his poſterity, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Noah</hi> and his, and took in <hi>Job, Melchizedec, Eli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Abraham, Iſaac,</hi> and <hi>Jacob, Moſes, Dav<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and all the Patriarches; and laſt of all; it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>volved upon the Goſpelized Gentiles, and all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſterity; and this only is the Covenant of Grace for was it not great Grace, that God ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only ſpare Man when he firſt broke out into ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rebellion againſt him, but found out a Ranſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for him.</p>
+            <p n="6">6. All thoſe that are, or have been, or may be in the Covenant of Grace, are not, nor new may be in the Covenant of Redemption; but a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that are in the Covenant of Redemption, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:137074:8"/> go through the Covenant of Grace to Glory.</p>
+            <p n="7">7. All the Elect of God are in the Covenant of Redemption, and were ſo from all Eternity; for that Covenant was made between God the Fa<g ref="char:EOLhyphen"/>ther and his Eternal only Son, 2 <hi>Tim.</hi> 1.9. <hi>Who hath ſaved us, and called us with an holy calling; not according to our works, but according to his own purpoſe and grace, which was given us in Chriſt Jeſus before the world began:</hi> But the Covenant of Grace was made with Man by God the Father in his Son Chriſt Jeſus, in the beginning of Time, immedi<g ref="char:EOLhyphen"/>ately as ſoon as man Fell, <hi>Gen.</hi> 3.15.</p>
+            <p n="8">8. Not one Soul of all thoſe in the Covenant of Redemption, ſhall ever ſin to ſuch a degree as to fall ſhort of eternal life and ſalvation; for they are all in the hands of Chriſt, and none can pluck them thence, <hi>John</hi> 10. <hi>My ſheep hear my voice, and I know them, and they follow me, and I give unto them eternal life: And they ſhall never periſh, neither ſhall any pluck them out of my hand.</hi>
+            </p>
+            <p>1 John 3.9. <hi>Whoſoever is born of God doth not commit ſin; for his ſeed remaineth in him, and he cannot ſin becauſe he is born of God.</hi>
+            </p>
+            <p>This reſpects the believers perſeverance in his ſpiritual ſtate, and not his ſpiritual frame of heart; for the ſame Apoſtle ſaith, in the ſame Epiſtle, <hi>chap.</hi> 1.8. <hi>If we ſay that we have no ſin, we deceive our ſelves, and the truth is not in us.</hi> Many Thouſands have ſinned themſelves out of the Covenant of Grace, and fallen ſhort of eter<g ref="char:EOLhyphen"/>nal life and ſalvation: For as God's eldeſt Son upon Earth, namely <hi>Adam,</hi> ſinned and broke the Covenant of Works, ſo <hi>Adam</hi>'s eldeſt Son, namely <hi>Cain,</hi> was the firſt that ſinned himſelf out of the Covenant of Grace; and <hi>Ham</hi> was the firſt that ſinned himſelf out of the Covenant of Grace after the Flood; and <hi>Judas</hi> ſinned himſelf out of the Covenant of Grace under the Diſpenſation of the
+<pb n="16" facs="tcp:137074:9"/> Goſpel, and all thoſe Jews we read of in <hi>Rom.</hi> 11. where it is thus ſaid;</p>
+            <p>
+               <hi>For if the firſt fruit be holy, the lump is alſo holy; and if the root be holy, ſo are the branches:</hi>
+            </p>
+            <p>
+               <hi>And if ſome of the branches be broken off, and the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being a wild-olive tree, wert graffed in among the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and with them partakeſt of the root and fatneſs of the olive-tree:</hi>
+            </p>
+            <p>
+               <hi>Well; becauſe of unbelief they were broken off.</hi>
+            </p>
+            <p n="9">9. This Olive-tree, which the Jews were broken of from, and the Gentiles graffed into, was the Co<g ref="char:EOLhyphen"/>venant of Grace: Miſtake me not; for I do not hold [that] popiſh Doctrine of falling from true ſaving Grace; for it is impoſſible for any to fall out of a ſtate of Grace, though they may out of the Covenant of Grace, becauſe they are in the Covenant of Redemption, which is the inner Court, <hi>viz. Sanctum Sanctorum.</hi>
+            </p>
+            <p n="10">10. And Laſtly: All that are in the Covenant of Grace are the Subjects of Water-baptiſm; they are either baptized, or ought to be: But none but thoſe that are in the Covenant of Redemption, are circumciſed in heart, and baptized with the Holy Ghoſt, and with fire.</p>
+            <p n="2">2. Saith Mr. <hi>D.</hi> in <hi>pages</hi> 2, 3. <hi>How came it to paſs that holy men, ſuch who were intereſſed in the Covenant of Grace, at the very inſtant of making this Covenant of Circumciſion with</hi> Abraham, <hi>were not concerned in that Covenant, and the Token of it? ſuch as</hi> Melchizedec, &amp;c. <hi>and the Fathers before the Flood to</hi> Abraham<hi>'s Time, and after to</hi> Job <hi>and his Family, and the Saints of God contemporary with him, ſuch as</hi> Elihu <hi>and</hi> Job<hi>'s Three Friends,</hi> &amp;c.</p>
+            <p>
+               <hi>The Learned Mr.</hi> N. Cox <hi>hath ſo ſolidly opened this Covenant of peculiarity made with</hi> Abraham <hi>&amp;c.</hi>
+            </p>
+            <pb n="17" facs="tcp:137074:9"/>
+            <p>Here are ſeveral things to be obſerved from theſe Words of Mr. <hi>D</hi>'s:</p>
+            <p n="1">1. Is this; He calleth the Covenant which God eſtabliſhed with <hi>Abraham,</hi> and his Seed, a Cove<g ref="char:EOLhyphen"/>nant of Circumciſion.</p>
+            <p n="2">2. He queries how it came to paſs, that theſe holy men were not concerned in that Covenant, and the Token of it: Which is a contradiction; for firſt, he aſſerts the Token of the Covenant, <hi>viz.</hi> Circumciſion to be the Covenant it ſelf; and how and where he will find another Token for the Token of the Covenant, I know not.</p>
+            <p n="3">3. I obſerve Mr. <hi>D</hi>'s drift and deſign in calling God's Covenant with <hi>Abraham,</hi> and his Seed, a Covenant of Circumciſion, is to make way to lay a foundation to build their Covenant of peculiari<g ref="char:EOLhyphen"/>ty on; but this I will prove to be a groſs miſtake, for theſe Reaſons following.</p>
+            <p n="1">1. Circumciſion could not be the Covenant it ſelf, becauſe (according to their own Princi<g ref="char:EOLhyphen"/>ples,) all the female ſeed of <hi>Abraham</hi> would have been excluded and ſhut out; for they will not grant, nor allow, that the female ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> were any way concerned in Circumciſion, or had any benefit by it.</p>
+            <p n="2">2. Circumciſion could not be the Covenant, becauſe it was but a Token of it, <hi>Gen.</hi> 17.11. <hi>And ye ſhall circumciſe the fleſh of your fore-skin, and it ſhall be a token of the covenant between me and you:</hi> That was with <hi>Abraham,</hi> and all his Seed, both male and female.</p>
+            <p n="3">3. Circumciſion could not be the Covenant, be<g ref="char:EOLhyphen"/>cauſe in the Covenant it ſelf God promiſed to be <hi>Abraham</hi>'s God, and the God of his Seed after him, in their Generations, <hi>Gen.</hi> 17.7. Ay, and <hi>to a thouſand Generations,</hi> Pſal. 105.8. <hi>And God ſaid, I will make an everlaſting covenant with thee,</hi> &amp;c. Now Circumciſion as to the Letter of it, was
+<pb n="18" facs="tcp:137074:10"/> not everlaſting, for it expired with the Ceremo<g ref="char:EOLhyphen"/>nial Law.</p>
+            <p n="4">4. And Laſtly: Circumciſion could not be the Covenant it ſelf, becauſe then <hi>Iſhmael</hi> would have been in it; which is repugnant to the holy Scrip<g ref="char:EOLhyphen"/>ture; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r he had neither part not lot in the Co<g ref="char:EOLhyphen"/>venant, <hi>Gen.</hi> 17.18, 19, 20, 21. But they run upon this miſtake to prove Gods Covenant with <hi>Abraham,</hi> and his Seed, to be a Covenant of pe<g ref="char:EOLhyphen"/>culiarity, with a deſign to exclude all the Gentile Believers and their Seed, purely to deſtroy Infant-baptiſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for they know, that unleſs they can do that, they cannot bring it to paſs; and this is the reaſon why they preſs theſe holy men aforeſaid into their ſervice, <hi>viz. Melchizedec, Job, Eli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp;c.</hi> becauſe they were not circumciſed.</p>
+            <p n="2">2. I ſhall humbly offer my Reaſons to ſhew why <hi>Abraham</hi> and his poſterity were circumciſed, and not thoſe holy men aforeſaid.</p>
+            <p n="1">1. The firſt is, becauſe God never required it of them, and therefore it would have been ſuper<g ref="char:EOLhyphen"/>ſtition for them to have done it.</p>
+            <p n="2">2. Becauſe <hi>Abraham</hi> was choſen by God himſelf, and fixed in a publick ſtation to be a ſub-repre<g ref="char:EOLhyphen"/>ſentative Head, and father of the faithful to the end of the World; and ſo was not any of thoſe Wor<g ref="char:EOLhyphen"/>thies aforeſaid.</p>
+            <p n="3">3. God's Covenant was with <hi>Abraham</hi> ſeveral years before Circumciſion was annexed unto it, <hi>Gen.</hi> 17.4. <hi>As for me, behold, my covenant is wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee, and thou ſhalt be a father of many nations.</hi> Now to which of thoſe Worthies did God ever ſay, he would make him a father of many nations?</p>
+            <p n="4">4. In <hi>Gen.</hi> 12.3. <hi>And I will bleſs them that bleſs thee, and curſe him that curſeth thee: And in thee ſhall all the families of the earth, be bleſſed.</hi> This was Gods Covenant with <hi>Abraham</hi> ſome years before Circumciſion.</p>
+            <p n="5">
+               <pb n="19" facs="tcp:137074:10"/>5. In <hi>Gen.</hi> 13.16. <hi>And I will make thy ſeed as the duſt of the earth: ſo that if a man can number the duſt of the earth, then ſhall thy ſeed alſo be numbred.</hi>
+            </p>
+            <p n="6">6. In <hi>Gen.</hi> 15.5. <hi>And he brought him forth abroad, and ſaid, look now toward heaven, and tell the ſtars if thou be able to number them: And he ſaid unto him, So ſhall thy ſeed be.</hi> God did not make any ſuch peculiar promiſe unto <hi>Melchizedec</hi> or <hi>Job,</hi> &amp;c.</p>
+            <p n="7">7. The bleſſing of <hi>Abraham</hi> was to come upon the Gentiles, <hi>Gal.</hi> 3.14. God made <hi>Abraham</hi> a publick bleſſing, both to Jew and Gentile.</p>
+            <p n="8">8. It was ſaid of <hi>Abraham, In thy ſeed ſhall all the kindreds of the earth be bleſſed,</hi> Acts 3.25. <hi>In thy ſeed, that is in Chriſt,</hi> Gal. 3.16.</p>
+            <p n="9">9. My Ninth and laſt Reaſon why <hi>Abraham</hi> and his Seed were circumciſed, and not thoſe holy men, was, becauſe our Saviour Chriſt was to be born of the Seed of <hi>Abraham;</hi> and therefore it is ſaid, <hi>In</hi> Abraham<hi>'s ſeed ſhall all the kindred of the earth be bleſſed;</hi> for our Saviour Chriſt was not to come out of the Loyns or any one of theſe Worthies, but from the Lineage of <hi>Abraham,</hi> Mat. 1.1. <hi>The book of the generation of Jeſus Chriſt, the ſon of David, the ſon of Abraham:</hi> Not the Son of <hi>Melchizedec,</hi> nor the Son of <hi>Job, &amp;c.</hi> but the Son of <hi>Abraham:</hi> Therefore becauſe he was to come from his Loyns, both <hi>Abraham,</hi> and his Seed, muſt wear the Badge or Token of his In<g ref="char:EOLhyphen"/>carnation and Crucifiction, which were both prefi<g ref="char:EOLhyphen"/>gurated in Circumciſion, which was then a Badge of Honour as Baptiſm now is, and centered in the Covenant of Grace as Baptiſm now doth; And for theſe Reaſons aforeſaid, God was pleaſed to give unto <hi>Abraham,</hi> and his Seed, a Token of his Covenant-Love and Grace, in that diſtinguiſh<g ref="char:EOLhyphen"/>ing way and manner above all other Saints con<g ref="char:EOLhyphen"/>temporary with them, who were alſo in the ſame
+<pb n="20" facs="tcp:137074:11"/> Covenant with them; for God had not Two Co<g ref="char:EOLhyphen"/>venants of Grace, one peculiar to <hi>Abraham</hi> and his Seed, and another for the reſt of his Saints; but give me leave to tell ye, that all thoſe Wor<g ref="char:EOLhyphen"/>thies aforeſaid, though they were not circumciſed in the fleſh, yet they were all circumciſed in heart, with the Circumciſion made without hands; for what though God was pleaſed to deny them the Token or thing ſignified at that time, for Reaſons beſt known to his holy Wiſdom? yet they had the thing ſignified, which was infinitely better: <hi>Iſhmael</hi> had the Token of the Covenant, which was but the ſhell, and not the kernel; but all thoſe holy men, which Mr. <hi>D.</hi> ſpoke of, had the kernel, though they had not the ſhell; they were in the ſame Covenant with <hi>Abraham</hi> and his Seed, though they had not that Token of the Covenant as they had.</p>
+            <p>Now let us hear what a Gentleman of <hi>New-England</hi> ſaid, in his <hi>Hiſtory of Baptiſm,</hi> in <hi>pag.</hi> 8.</p>
+            <p n="1">1. <hi>A promiſe to</hi> Adam<hi>'s believing; in this decla<g ref="char:EOLhyphen"/>ring A promiſe of the Meſſiah<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, That he will be his God, and the God of his ſeed in their Generations, keeping Covenant or Command revealed to them; for when this promiſe was made to</hi> Abraham, <hi>it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be ſuppoſed a new thing not in uſe before, but it was renewed to him with a peculiar reſpect to his ſeed, when the Gentiles were caſt off for ſinning againſt this promiſe, as the Jews now are: And there is no doubt but that the Family of</hi> Adam, <hi>who was the firſt Be<g ref="char:EOLhyphen"/>liever, and of</hi> Noah <hi>and his ſeed, were the Church of God, becauſe God exerciſed Excommunication on the apoſtate Members; and there is no Church-hood but to ſuch as are under the promiſe: Thoſe who cannot ſay, God is their God, and the God of their ſeed, in their generations keeping covenant, have little to ſay for, their Church-hood.</hi>
+            </p>
+            <p n="2">
+               <pb n="21" facs="tcp:137074:11"/>2. Let us hear what that eminent Servant of the Lord, Reverend Mr. <hi>Samuel Pomfret,</hi> ſaid to this which Mr. <hi>D.</hi> writ about <hi>Melchizedec, Lot,</hi> and <hi>Job, &amp;c.</hi> when he ſaw it in his Book, which is as followeth:</p>
+            <p>
+               <hi>Touching Mr.</hi> D<hi>'s doubt about theſe holy men,</hi> Mel<g ref="char:EOLhyphen"/>chizedec, Job, Elihu, <hi>and</hi> Lot, &amp;c. <hi>why they are not mentioned as well as</hi> Abraham <hi>concerning the Token of the Covenant,</hi> viz. <hi>Circumciſion, his judi<g ref="char:EOLhyphen"/>cious Heart and Head might quickly have perceived, if he pleaſe but to conſider the lineal deſcent: The God of all Grace was pleaſed to call out</hi> Abraham, <hi>as the Father of the faithful through all ages to the end of the World, both down the Goſpel as well as the Old Teſtament Diſpenſation; as he may know in the</hi> Epiſtle to the Galatians <hi>is clear, eſpecially the third</hi> chapter, <hi>where it is ſaid, the bleſſing of</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>is devolved upon the Gentiles.</hi>
+            </p>
+            <p n="3">3. Let us hear what Mr. <hi>Cobbet</hi> of <hi>New-England</hi> ſaith alſo to this: 1. Saith he,</p>
+            <p>
+               <hi>Let us addreſs our ſelves a while to conſider of the external and Church right of little ones to the initia<g ref="char:EOLhyphen"/>ting Seal and Church right which follows thence; for the initiating Seal follows the Covenant: We ſpeak not of an extraordinary time of the Church, when either it hath no particular expreſs initiating Seal diſtinct from another ſealing Ordinance, as before that ſolemn covenanting of God in reference to the Church in</hi> Iſaac<hi>'s Race,</hi> Gen. 17.7, 8, 9. <hi>with the</hi> 19. <hi>ſo there is ſome peculiar ſtate of the time not applicable to the ordinary time and way of a viſible politick Church and its Adminiſtrations, as then alſo were Family Churches as that in</hi> Melchizedec's <hi>and</hi> Job<hi>'s Families, which being not ſucceſſively to continue, were not ſo immediately eyed, in point of ſolemn Inſtitution and Church Laws, as was this of</hi> Abraham, Iſaac, <hi>and</hi> Jacob<hi>'s Race, wherein the viſible Church was to be continued: Such extraordinary times and caſes
+<pb n="22" facs="tcp:137074:12"/> are very impertinently urged by ſome to infringe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> force of ordinary Rules and principles; they know a extraordinary caſe of eating ſhew-bread by ſuch as were not prieſts, and of plucking ears of corn on the ſabbath day, of a private diſciples baptizing,</hi> Acts 9. <hi>and</hi> Zipporah<hi>'s circumciſing of her ſon: And theſe do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nullifie or invalidate ordinary rules and principles touching Circumciſion or Baptiſm, or the ſanctifying the ſabbath. In ordinary times and caſes reſpecting the political viſible Church and its adminiſtrati<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuch little ones as are of parents in ſuch viſible Ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eſtate, they have external right unto the injoyned <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tiatory viſible ſeal, of which they are outwardly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pable, and ought not to be denyed the uſe and ben<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thereof: Ordinary times then, and not extraordina<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are here conſidered: Let none object then, Child<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Members of an ordinary political viſible Church <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> here conſidered: Let none object an extraordinary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of</hi> Job's <hi>or</hi> Melchizedec<hi>'s Families a viſible <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enjoyned; not a caſe wherein actually any ſuch ſed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not enjoyned, is here alſo conſidered, or at leaſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> view at the preſent making of the covenant with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reference, as in the caſe</hi> Gen. 17.7, 8, 9. <hi>And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> none object</hi> Adam <hi>and</hi> Noah<hi>'s time, and caſes aga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our</hi> Theſis; <hi>external right in ſuch a church ſeal propounded: Let none confound this with inward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaving right, which is viſible to God, and not to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man the initiating ſeal is propounded, not all theſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or church priviledges, as choice of officers, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in other church occaſions,</hi> &amp;c. <hi>A male child of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> days old might be circumciſed, but was never intend to be injoyned perſonal appearance at the ſolemn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bration of the paſſover: Let none then object, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may as well plead for Infants coming to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Supper as in</hi> Cyprian<hi>'s time. In a word; we ſpea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> initiatory ſealing of perſons outwardly capable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Thus you hear what this Authour ſaith.</p>
+            <p n="5">
+               <pb n="23" facs="tcp:137074:12"/>5. And laſtly: When they have ſaid all that can be ſaid concerning <hi>Melchizedec, Lot, Job,</hi> and <hi>Elihu,</hi> why they were not circumciſed; I cannot find that they were under any obligation to it, and the reaſon is plain, Becauſe they had not Gods command for it; for if they had Gods com<g ref="char:EOLhyphen"/>mand for the doing of it and neglected it, then they were guilty of a great ſin, for not complying with it.</p>
+            <p n="2">2. If there was no command for it, then they had ſinned if they had done it.</p>
+            <p n="3">3. God may make that an Ordinance at one time that may not be ſo at another time; of which I ſhall give you an inſtance in the caſe of <hi>Iſrael</hi>'s departure out of <hi>Egypt,</hi> Exod. 12.7, 13. <hi>And they ſhall take of the blood, and ſtrike it on the two ſide-poſts,</hi> &amp;c.</p>
+            <p>
+               <hi>And the blood ſhall be to you for a token upon the houſes where you are: and when I ſee the blood, I will paſs over you, and the plague ſhall not be upon you to deſtroy you.</hi>
+            </p>
+            <p>This Ordinance was but for that night.</p>
+            <p n="4">4. It is a ſin for any man to be circumciſed now God doth not require it, and it would have been a ſin in Gods <hi>Iſrael</hi> under the Law, if they had neglected it; for he that was not circumciſed at eight days old, was to be cut off, <hi>Gen.</hi> 17.14.</p>
+            <p n="5">5. If theſe holy men had done it, namely, <hi>Mel<g ref="char:EOLhyphen"/>chizedec, Lot,</hi> and <hi>Job, &amp;c.</hi> they would have been as deeply guilty for the doing of it, as <hi>Abraham</hi> and his ſeed would have been for the neglecting of it.</p>
+            <p n="6">6. And laſtly: It would be a great ſin in a Goſpel-Miniſter, that was duly qualified for it, with Gifts and Graces, and a right call to the work of the Miniſtry, if he ſhould refuſe and neglect it; and it is as great a ſin for any to intrude and undertake that great Work without being duely
+<pb n="24" facs="tcp:137074:13"/> qualified with Gifts and Graces, and not having a clear call unto it, as too many Novices do i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this our day, that do not underſtand Covenant-Myſteries; for the Scripture ſaith, in <hi>Pſal.</hi> 25.14. <hi>The ſecret of the Lord is with them that fear him: and he will ſhew them his covenant.</hi>
+            </p>
+            <p>So that this caſe of theſe holy men is fully an<g ref="char:EOLhyphen"/>ſwered; For if Circumciſion had been a Duty incumbent on them, as they were good men they would not have lived in the neglect of it.</p>
+            <p>Thus you ſee this <hi>quaint,</hi> new-found Notion of a Covenant of Peculiarity made with <hi>Abraham</hi> and his natural Poſterity fairly laid in the Duſt; for duſt thou art, and to duſt thou art returned.</p>
+            <p n="2">2. I ſhall prove Infant-Baptiſm, and Church-Memberſhip, to be of Divine Inſtitution.</p>
+            <p n="1">1. From <hi>Acts</hi> 2. <hi>Therefore let all the houſe of Iſrael know aſſuredly, that God hath made that ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Jeſus whom ye have crucified, both Lord and Chri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi>
+            </p>
+            <p>
+               <hi>Now when they heard this, they were pricked i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their heart, and ſaid unto Peter, and to the reſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the apoſtles, Men and brethren, what ſhall we do?</hi>
+            </p>
+            <p>
+               <hi>Then Peter ſaid unto them, Repent, and be bapti<g ref="char:EOLhyphen"/>zed every one of you in the name of Jeſus Chriſt for the remiſſion of ſins, and ye ſhall receive the gift <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>For the promiſe is unto you, and to your children, and to all that are afar off, even as many as the Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our God ſhall call.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Here we may obſerve, that whatſoeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Promiſe was unto the Jews, and to all the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> children, in the former part of the <hi>verſe,</hi> the Promiſe is the ſame to the called Gentiles and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all their children, in the latter part of the ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>verſe:</hi> But by the way, before you go any furthe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> What Promiſe is this that is here mentioned? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when was it made to the Jews and their childre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to the Gentiles and their children alſo? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:137074:13"/> it is no other than the Covenant that God eſtabli<g ref="char:EOLhyphen"/>ſhed with <hi>Abraham,</hi> wherein he promiſed that he would be his God, and the God of his children after him, and that this Bleſſing, or Promiſe, ſhould deſcend, and devolve, upon the Gentiles, and their children alſo: And for clear proof of this, mind theſe Scriptures, <hi>Gen.</hi> 12.3. here is the firſt broaching this Celeſtial Liquor of Life to <hi>Abraham, Acts</hi> 3.25. <hi>Gen.</hi> 13.16. <hi>Gen.</hi> 15.5. <hi>Gen.</hi> 17.2, 4, 7. <hi>Gal.</hi> 3.8, 14, 16, 17. Thus you ſee this Promiſe is the Covenant in which are com<g ref="char:EOLhyphen"/>prehended all Goſpel-believers, and all their chil<g ref="char:EOLhyphen"/>dren; ſo that if we went no further than this, here is ſufficient Authority to adminiſter the Ini<g ref="char:EOLhyphen"/>tiatory Seal of the Covenant to the Infant-ſeed of believers.</p>
+            <p n="2">2. But ſecondly; when they heard what the Apoſtle charged them with, (which was with the blood of Chriſt) they were convinced, being pricked in their conſciences, and then they ſaid, <hi>What ſhall we do?</hi> Even as the Jaylor that had been tormenting the Apoſtles, when he was con<g ref="char:EOLhyphen"/>vinced ſaid, in <hi>Acts</hi> 16. <hi>Sirs, what muſt I do to be ſaved?</hi> ſo theſe here, <hi>What ſhall we do?</hi> Pray obſerve; the Apoſtles Anſwer unto them was mandatory, <hi>viz. Be baptized every one of you:</hi> That was, themſelves, and every one of their children that did belong unto them: This muſt needs be ſo, becauſe the Apoſtle, to rein<g ref="char:EOLhyphen"/>force his <hi>Mandamus</hi> with a clear incluſive Argu<g ref="char:EOLhyphen"/>ment, ſaid, <hi>For the promiſe is unto you, and to your children.</hi>
+            </p>
+            <p>Now what need Baptiſm have been command<g ref="char:EOLhyphen"/>ed, and the children preſently mentioned, if they had not been to be baptized as well as their Parents; for they were as much in the Promiſe as their parents? Pray where lies the difference? <hi>For the promiſe is unto you, and to your children;</hi> and
+<pb n="26" facs="tcp:137074:14"/> upon which Baptiſm is intailed, for it mentions no conditions in the Promiſe with a reſpect to children: And therefore it is as clear as the ſun, that the children of believing parents ought to be baptized, let who as will, or dare, deny it.</p>
+            <p n="2">2. There is Chriſt's poſitive command for the baptizing of Infants as well as others, in his ge<g ref="char:EOLhyphen"/>neral commiſſion to all his faithful Labourers in his Vineyard, in <hi>Mat.</hi> 28. <hi>Go, and diſciple all na<g ref="char:EOLhyphen"/>tions:</hi> That was, baptize them; for the Learned do ſay, that Baptiſm precedes Teaching: Now children are included in this commiſſion, or elſe they are no part of a nation; which is nonſence to aſſert or imagine; for they are a very great part of a nation, and therefore they come under the command of Chriſt to be baptized, every one of thoſe children where their parents did ſub<g ref="char:EOLhyphen"/>mit to the diſcipline of Baptiſm. Thus I have pro<g ref="char:EOLhyphen"/>ved Infant-baptiſm and Church-memberſhip to be of divine Inſtitution, and therefore have a right to the Ordinance of Baptiſm by vertue of Chriſts command, and the Apoſtles argumentative manda<g ref="char:EOLhyphen"/>tory Exhortation, and alſo their covenant intereſt.</p>
+            <p n="1">1. Therefore I challenge all our Opponents to prove that ever the children of believing parent were once denied the Ordinance of Baptiſm is our Saviours time, or his Apoſtles.</p>
+            <p n="2">2. I alſo challenge them to prove, by any one Text of Scripture, that none but adult believer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were to be baptized.</p>
+            <p n="3">3. Let them give us but one ſingle Inſtance, among all thoſe Houſholds which were baptized, that any one child was exempted.</p>
+            <p n="4">4. And laſtly: Let them prove that Infant-bap<g ref="char:EOLhyphen"/>tiſm is any where forbid in the holy Scripture: But if they can do neither of theſe, as I am ſure they cannot, where then is divine Right which they ſo highly boaſt of, and ſo confidently la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:137074:14"/> claim unto? Why, it appears clearly to be on our ſide, and not on theirs; and the Reaſon for it is undeniable, For nothing can be of divine Right that is repugnant to the holy Scriptures: But to deny the Infant-ſeed of Believers to have an In<g ref="char:EOLhyphen"/>tereſt in the Covenant or Promiſe of God, which intitles them to Baptiſm, is repugnant to the holy Scriptures, and therefore cannot be of divine Right, as is clear from <hi>Acts</hi> 2.38, 39. 1 <hi>Cor.</hi> 7.14. and <hi>Gen.</hi> 17.7.</p>
+            <p n="5">5. Some of thoſe that are againſt Infant-baptiſm have publickly and confidently aſſerted in print, that the children of <hi>Turks</hi> and <hi>Heathens</hi> have as much priviledge as the children of believing Chri<g ref="char:EOLhyphen"/>ſtians; but Mr. <hi>D.</hi> ſeems to be of another mind, if he had but held tightly to it; for ſaith he, in <hi>page</hi> 2. <hi>Many of thoſe you call the outward priviledges of the covenant of Grace, our children have as well as yours.</hi>
+            </p>
+            <p>Pray note by the way, Mr. <hi>D.</hi> ſaith, we call theſe Priviledges ſo; he doth not own them to be really ſo, and yet at the ſame time, he ſaith, their children have them: This is a contradiction in it ſelf; for it is to have and enjoy that which they hold, is not in being.</p>
+            <p n="6">6. I will prove that the children of believers have a far greater priviledge, than the children of <hi>Turks</hi> and <hi>Heathens.</hi>
+            </p>
+            <p n="1">1. Firſt of all; when the ungodly World was drowned, and all deſtroyed, all thoſe children whoſe parents were not in the covenant, were deſtroyed with their parents, not ſo much as one of them eſcaped: Pray take notice; I do not judge nor meddle with their future eſtate.</p>
+            <p>But holy <hi>Noah</hi> and all his Houſhold were ſaved, <hi>Heb.</hi> 11.7. not one of his children periſhed in the Flood, becauſe they were all in the Covenant of Grace.</p>
+            <p n="2">
+               <pb n="28" facs="tcp:137074:15"/>2. When <hi>Sodom</hi> and <hi>Gomorah</hi> were deſtroyed by Fire from Heaven, all thoſe children, whoſe wic<g ref="char:EOLhyphen"/>ked parents were not in the covenant, periſhed with them in that conflagration; but righteous <hi>Lot,</hi> who was in the Covenant of Grace, was ſaved and all his own children.</p>
+            <p n="3">3. Where is the <hi>chapter,</hi> or <hi>verſe,</hi> to be found in all the Book of God, that doth declare, that the children of <hi>Turks</hi> or <hi>Heathens</hi> are holy chil<g ref="char:EOLhyphen"/>dren, as it doth the children of either believing father or mother, in 1 <hi>Cor.</hi> 7.14.?</p>
+            <p n="4">4. And laſtly: Where is it ſaid in Scripture to <hi>Turks</hi> and <hi>Heathens,</hi> (while ſuch) that <hi>The promiſe is unto you, and to your children,</hi> as in <hi>Acts.</hi> 2.39.?</p>
+            <p>Thus you ſee I have proved, That the children of Chriſtian believers have a far greater privi<g ref="char:EOLhyphen"/>ledge than the children of <hi>Turks</hi> and <hi>Heathens;</hi> by which I have utterly deſtroyed that carnal, ig<g ref="char:EOLhyphen"/>norant, preſumptious Aſſertion of theirs.</p>
+            <p n="6">6. Saith our Opponents, <hi>What benefit is it for a child to be baptized:</hi> To which I Anſwer thus; So might proud carnal Reaſon, and natural Affe<g ref="char:EOLhyphen"/>ction, much more have queried in the time of the <hi>Moſaick</hi> Law, What good doth this ſmarting Ordi<g ref="char:EOLhyphen"/>nance do to our children? Or, what benefit is it for them to be circumciſed at eight days old? which the Apoſtles themſelves counted to be an intole<g ref="char:EOLhyphen"/>rable yoke, which they were not able to bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Acts</hi> 15.10. and yet in <hi>Rom.</hi> 3. he counts it a very great priviledge and advantage; for ſaith he,</p>
+            <p>
+               <hi>What advantage then hath the Jew? or wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> benefit is there in circumciſion? Much every way chiefly, becauſe that unto them were committed the oracles of God.</hi>
+            </p>
+            <p>Here you ſee the Apoſtles Anſwer is very com<g ref="char:EOLhyphen"/>patible to this Query; but ſaith he farther:</p>
+            <p>
+               <hi>For what if ſome did not believe? ſhall their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> belief make the faith of God without effect?</hi>
+            </p>
+            <pb n="29" facs="tcp:137074:15"/>
+            <p>Here you ſee thoſe eight-day diſciples were capable of receiving the Oracles of God, or elſe they would not have been committed unto them.</p>
+            <p n="6">6. Saith Mr. <hi>D.</hi> in <hi>p.</hi> 3. <hi>The primitive Fathers, for ſix hundred years after Chriſt, had a far diffe<g ref="char:EOLhyphen"/>rent</hi> Medium <hi>to prove Infant-baptiſm by,</hi> viz. <hi>The ne<g ref="char:EOLhyphen"/>ceſſity of it to ſalvation: Your notion of covenant-right from</hi> Abraham, <hi>and habitual faith, is not to be found in their Writings.</hi>
+            </p>
+            <p>To which I Anſwer; We are not bound to ſail by their Compaſs; if the Fathers were mi<g ref="char:EOLhyphen"/>ſtaken, muſt we be ſo too? I can produce ſome that were miſtaken in a paraelel caſe, long be<g ref="char:EOLhyphen"/>fore their time; and ſome of Mr. <hi>D</hi>'s. own Opi<g ref="char:EOLhyphen"/>nion, that have been miſtaken alſo in this Point, in our Time.</p>
+            <p n="1">1. Some of thoſe Jews that were converted to the Chriſtian Faith in the Apoſtles time, who were Teachers of others, <hi>Acts</hi> 15. <hi>And certain men which came down from Judea, taught the brethren, and ſaid, Except ye be circumciſed after the manner of Moſes, ye cannot be ſaved.</hi> Here thoſe men laid a very great ſtreſs upon the very <hi>manner</hi> of circum<g ref="char:EOLhyphen"/>ciſion; it muſt not be after the manner of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> but <hi>Moſes.</hi>
+            </p>
+            <p n="2">2. I have heard of ſome, (even in our Time) that are againſt Infant-baptiſm, that have held the ſame thing in effect; for ſay they, <hi>No baptiſm, no ſalvation;</hi> and they hold, That there is no Bap<g ref="char:EOLhyphen"/>tiſm but that of dipping; which is to reprobate all thoſe who are not for dipping in baptiſm, and all their own children alſo, that die before they are dipped; which is to place an Ordinance in the room of Chriſt's Righteouſneſs: But my good Friend, It is ſafer relying upon <hi>Thus ſaith the Lord,</hi> than upon <hi>Thus ſay the Fathers.</hi>
+            </p>
+            <p n="2">
+               <pb n="30" facs="tcp:137074:16"/>2. I ſhall in the ſecond place prove that the mode of baptiſm is by ſprinkling, or pouring water on the ſubjects in baptiſm; and this I ſhall do partly to ſatisfie my much eſteemed friend Mr. <hi>B. D.</hi> who gave me a ſtrict charge on the <hi>Royal Exchange</hi> ſo to do, though I have been very large already on this ſubject in my <hi>Replication</hi> to Mr. <hi>B. K</hi>'s. Book.</p>
+            <p n="1">1. I ſhall begin and make ſome Obſervations from <hi>Acts</hi> 2. where we find a great number that were baptized at one time; but we do not find that the Apoſtles did lay any Injunction upon them to change their Rayment to be baptized in; 1. They did not command the men to ſtrip them<g ref="char:EOLhyphen"/>ſelves, and put on other Garments proper for the Ordinance, and then come and be baptized, nei<g ref="char:EOLhyphen"/>ther did they ſay unto the women and maids, Go and get ye Gowns made with lead in the lower end of the skirt thereof, and ſhift ye, and then come again to us, and we will baptize every one of you.</p>
+            <p n="3">3. How could it be poſſible that ſo few as the Apoſtles were, not exceeding Twelve in number, (if they were all there) ſhould be able to trip and dip three thouſand men, women, and maids, ac<g ref="char:EOLhyphen"/>cording to their Principle and practice, in ſo ſhort a time as but part of a day?</p>
+            <p n="2">2. I ſhall prove Baptiſm to be by Sprinkling, <hi>&amp;c.</hi> from the <hi>Levitical</hi> Law, and not by Immerſion of Dipping.</p>
+            <p n="1">1. Negatively: If there is nothing to be done in Goſpel-Worſhip and Ordinances, but what there muſt be an Example or Shadow from that Pattern which God ſhewed unto <hi>Moſes</hi> in the Mount, with all its Appendix that were then in force, <hi>&amp;c.</hi> then baptiſm cannot be by dipping: But nothing ought to be done in Goſpel-Worſhip and Ordinances, but what there muſt be an Ex<g ref="char:EOLhyphen"/>ample
+<pb n="31" facs="tcp:137074:16"/> or Shadow for, from that Pattern which God ſhewed unto <hi>Moſes</hi> in the Mount, with all its Appendix that were then in force, ſuch as Cir<g ref="char:EOLhyphen"/>cumciſion and Sacrifices, which were then in be<g ref="char:EOLhyphen"/>ing, and long before the Ceremonial Law.</p>
+            <p>Therefore baptiſm cannot be by immerſion or dipping under water, becauſe there is no manner of ſhadow or Example for that way of baptizing in all the Ceremonial Law, nor its Appendix there<g ref="char:EOLhyphen"/>unto belonging: Now for proof of which, let us addreſs our ſelves to the Scriptures gradually, as we go along.</p>
+            <p n="1">1. In <hi>Heb.</hi> 10. <hi>For the law having a ſhadow of good things to come, and not the very image of the things.</hi>
+            </p>
+            <p>Pray mind; the Law was but a ſhadow of good things to come; and what theſe good things are, I ſhall have occaſion to declare by and by.</p>
+            <p n="2">2. I ſhall prove that baptiſm ought to be by ſprinkling, and pouring water on the ſubjects baptized.</p>
+            <p n="1">1. Thus: If there be an Example or Shadow for ſprinkling in baptiſm, from that Pattern which God ſhewed unto <hi>Moſes</hi> in the Mount, then bap<g ref="char:EOLhyphen"/>tiſm is by ſprinkling, <hi>&amp;c.</hi>
+            </p>
+            <p>But there is an Example or Shadow of ſprink<g ref="char:EOLhyphen"/>ling, <hi>&amp;c.</hi> from that Pattern which God ſhewed unto <hi>Moſes</hi> in the Mount:</p>
+            <p>Therefore baptiſm is by ſprinkling.</p>
+            <p>Now for the Proof of this, I ſhall call in ma<g ref="char:EOLhyphen"/>ny Scriptures to teſtifie the truth of it, and the firſt ſhall be that</p>
+            <p n="1">1. In <hi>Heb.</hi> 8. <hi>For if he were on earth, he ſhould not be a prieſt, ſeeing that there are prieſts that offer gifts according to the law:</hi>
+            </p>
+            <p>
+               <hi>Who ſerve unto the example and ſhadow of heavenly things, as Moſes was admoniſhed of God when he was about to make the tabernacle. For ſee (ſaith he)
+<pb n="32" facs="tcp:137074:17"/> that thou make all things according to the pattern ſhewed to thee in the mou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi>
+            </p>
+            <p>Pray obſerve; theſe <hi>all things</hi> that were then to be made according to the pattern ſhewn in the Mount, were the Example and Shadow of the Heavenly thing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: which is the ſame with that afore-mentioned Text, <hi>A ſhadow of g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d things to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> namely, the Goſpel-Ordinances and Worſhip; which muſt be according to the pat<g ref="char:EOLhyphen"/>tern ſhewn by God to <hi>Moſes</hi> in the Mount.</p>
+            <p n="2">2. The Apoſtle reproved the <hi>Hebrews</hi> that were reconciled to the Chriſtian Religion, for cleaving to, and hankering after, the aboliſhed Ceremo<g ref="char:EOLhyphen"/>nial Law; for he told them in effect, that they robbed Chriſt of the Honour and Glory of his prieſtly Office; for ſaith he unto them, <hi>If he</hi> (that was Chriſt) <hi>were on earth, he ſhould not be a prieſt, ſeeing there are prieſts that offer gifts according to the Law;</hi> and then he proceeds to tell them, that the Law was but an Example and Shadow of the Goſpel-Ordinances and Worſhip, thoſe heavenly things, and a ſhadow of good things to come, not the very Image or Subſtance of the things.</p>
+            <p n="3">3. If there were no Example or Type for dip<g ref="char:EOLhyphen"/>ping in baptiſm, then there can be no Antitype; Therefore it cannot be baptiſm; for there was nothing among all the Examples and Shadows of the Heavenly things, that was any thing like dip<g ref="char:EOLhyphen"/>ping in baptiſm.</p>
+            <p n="4">4. But fourthly; I will produce you a Cloud of Witneſſes, which all center in a Type for ſprinkling in baptiſm.</p>
+            <p n="1">1. In <hi>Exod.</hi> 24. <hi>And Moſes took the bloud, and ſprinkled it on the people, and ſaid, Behold the bloud of the covenant, which the Lord hath made with you.</hi>
+            </p>
+            <p>Now was not this a lively Type or Seal of the Covenant, namely Baptiſm? for it ſignifieth
+<pb n="33" facs="tcp:137074:17"/> the ſame thing as Baptiſm doth, <hi>viz.</hi> Regeneration, Sanctification, and renewing Grace, which coſt Chriſt the price of his precious blood, which is the blood of the covenant; for he was given for a covenant to the people, and therefore <hi>Moſes</hi> ſaid, <hi>Behold the blood of the covenant, which the Lord hath made with you;</hi> and yet that blood, in it ſelf, was but the blood of a beaſt:</p>
+            <p n="2">2. In <hi>Exod.</hi> 29. <hi>And thou ſhalt ſtay the ram, and thou ſhalt take his blood, and ſprinkle it round about upon the altar.</hi>
+            </p>
+            <p n="3">3. In <hi>Levit.</hi> 1. <hi>And he ſhall kill the bullock before the Lord: and the prieſts Aarons ſons ſhall bring the blood, and ſprinkle the blood round about upon the altar, that is by the door of the tabernacle of the congregation.</hi>
+            </p>
+            <p n="4">4. In <hi>Ezek.</hi> 36. <hi>Then will I ſprinkle clean water upon you, and ye ſhall be clean: from all your filthi<g ref="char:EOLhyphen"/>neſs, and from all your idols will I cleanſe you.</hi>
+            </p>
+            <p>
+               <hi>A new heart alſo will I give you, and a new ſpirit will I put within you, and I will take away the ſtony heart out of your fleſh, and I will give you an heart of fleſh.</hi>
+            </p>
+            <p>Here is God's Promiſe to the Jews, the Race of his old covenanted peculiar People, predicted, which is to be renewed and fulfilled in this latter day of the Goſpel, as in <hi>verſes</hi> 6, 7, 8, 9, 10, 11. compared with <hi>Rom.</hi> 11.25, 26, 27. Firſt, here in <hi>Ezek.</hi> is their baptiſm predicted, <hi>viz. Then will I ſprinkle clean water upon you;</hi> for as they were a baptized Church under the Law, ſo they ſhall be again under the Goſpel, 1 <hi>Cor.</hi> 10.2, 3, 4. And that was alſo by ſprinkling. Secondly, here is their Calling and Converſion predicted and promiſed, <hi>viz. A new heart alſo will I give you,</hi> &amp;c.</p>
+            <p n="4">4. And laſtly: Pray mind theſe Scriptures, for they are all for ſprinkling, <hi>Levit.</hi> 9.9, 18. <hi>ch.</hi> 4.6, 17, 18. <hi>ch.</hi> 5.9, 13. <hi>ch.</hi> 8.11, 24. <hi>ch.</hi> 14.
+<pb n="34" facs="tcp:137074:18"/> 7, 8, 9, 16, 51. <hi>Numb.</hi> 19.18, 19, 20, 21. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2 <hi>Chro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 29.22. <hi>ch.</hi> 30.16.</p>
+            <p>Now what could all theſe ſprinklings and pour<g ref="char:EOLhyphen"/>ings of blood and water be an Example and Sha<g ref="char:EOLhyphen"/>dow of, if not of baptiſm?</p>
+            <p>Therefore I demand Two Things of our Op<g ref="char:EOLhyphen"/>ponents.</p>
+            <p n="1">1. If ſprinkling in baptiſm be not the Antitype of all theſe ſprinklings and pourings aforeſaid? Then I challenge them to find out, and diſcover unto us, ſome other Goſpel-Ordinances wherein the ſubjects are all paſſive, as thoſe were of theſe Sprinklings under the Law, that is more appoſite to it, than ſprinkling in baptiſm is, to the Examples and Shadows of the Heavenly things, which were the good things that were come.</p>
+            <p n="2">2. Let them produce us a Type under the Ce<g ref="char:EOLhyphen"/>remonial Law for immerſion or dipping in bap<g ref="char:EOLhyphen"/>tiſm, otherwiſe let them ceaſe from ſuch an un<g ref="char:EOLhyphen"/>warrantable practice.</p>
+            <p n="2">2. In the Second place, Let us obſerve how excellently the Apoſtles have conjoined and ap<g ref="char:EOLhyphen"/>plyed thoſe Heavenly things in the Goſpel new Diſpenſation, their proper center.</p>
+            <p n="1">1. In <hi>Heb.</hi> 9. <hi>For if the blood of bulls, and of goats, and the aſhes of an heiſer ſprinkling the un<g ref="char:EOLhyphen"/>clean, ſanctifieth to the purifying of the fleſh.</hi>
+            </p>
+            <p>Here is Sprinkling and Sanctification joined together.</p>
+            <p n="2">2. In <hi>Heb.</hi> 10. <hi>Let us draw near with a true heart, in full aſſurance of faith, having our hearts ſprinkled from an evil conſcience, and our bodies waſhed with pure water.</hi>
+            </p>
+            <p>Here is Sprinkling and Waſhing joined to<g ref="char:EOLhyphen"/>gether.</p>
+            <p n="3">3. In <hi>Heb.</hi> 11. <hi>Through faith he kept the paſſever, and ſprinkling of blood.</hi>
+            </p>
+            <pb n="35" facs="tcp:137074:18"/>
+            <p>Here is the Paſſover and Sprinkling of blood joined together, the one a Type or Pattern of the Lords-ſupper, and the other of Baptiſm, the two Seals of the Covenant, and both pointing to the Death and Sufferings of Jeſus Chriſt, the Eſ<g ref="char:EOLhyphen"/>ſential Covenant; and alſo Regeneration and San<g ref="char:EOLhyphen"/>ctification, as Baptiſm and the Lords-ſupper moſt compatibly do.</p>
+            <p n="4">4. In <hi>Heb.</hi> 12. <hi>And to Jeſus the mediatour of the new covenant, and to the blood of ſprinkling.</hi>
+            </p>
+            <p>Here the Covenant of Grace, under the new Diſpenſation of the Goſpel, and Sprinkling are joined together, namely, Baptiſm the Seal or To<g ref="char:EOLhyphen"/>ken thereof.</p>
+            <p n="5">5. And laſtly: Here is the Foundation of all theſe Sprinklings clearly explained by the Apoſtle St. <hi>Peter,</hi> in theſe Words, in 1 <hi>Pet.</hi> 1.2. <hi>Elect according to the foreknowledge of God the Father, through ſanctification of the Spirit unto obedience, and ſprinkling of the blood of Jeſus Chriſt.</hi>
+            </p>
+            <p>Here is the Covenant and Sprinkling the blood of the Covenant joined together, namely, the blood of Chriſt: And what God hath joined together, let not proud carnal Reaſon part a<g ref="char:EOLhyphen"/>ſunder.</p>
+            <p>Thus you ſee I have clearly proved from the Ceremonial Law, That baptiſm is by ſprinkling, and pouring water on the ſubjects baptized; for nothing can be the Antitype of all theſe Sprink<g ref="char:EOLhyphen"/>lings, but this Heavenly Thing, namely, the Sa<g ref="char:EOLhyphen"/>crament of Water-baptiſm: Therefore baptiſm cannot be by dipping, becauſe there is no Exam<g ref="char:EOLhyphen"/>ple or Pattern for it among all the Ceremonies; for if it had been one of the Heavenly Things, then there muſt have been a Pattern for it; but there is none as I know of, unleſs it be thoſe two which are not of the Heavenly Things, here men<g ref="char:EOLhyphen"/>tioned, but a Diſpenſation of Wrath from Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="36" facs="tcp:137074:19"/> namely, the drowning the old ungodly World, and proud <hi>Pharaoh</hi> and all his Hoſt, they were all immerſed, or dipped, and drowned: Therefore dipping in baptiſm is of the Earth, and but a humane Invention.</p>
+            <p>Now to bring things nearer home ſtill; Wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did all theſe Sprinklings with blood and water ſig<g ref="char:EOLhyphen"/>nifie under the <hi>Moſaick</hi> Diſpenſation, which are brought down into the <hi>New Teſtament</hi> and applied by the Apoſtle.</p>
+            <p n="1">1. As they were Examples and Patterns of Water-baptiſm, ſo they pointed unto the ſame things as Water-baptiſm doth. <hi>viz.</hi> Regeneration and Sanctification, both which we have in <hi>John</hi> 3. <hi>Jeſus anſwered, Verily verily I ſay unto thee, Excep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man be born of water and of the Spirit, he cann<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> enter into the kingdom of God.</hi>
+            </p>
+            <p n="2">2. Sprinkling under the Ceremonial Law is baptiſm under the Goſpel; for they both point at one and the ſame thing, namely, the Death and Sufferings of Jeſus Chriſt; without which there had been no Regeneration or Sanctification; for without ſhedding of blood, there could have been no Remiſſion of ſins.</p>
+            <p n="1">1. Sprinklings under the Law pointed forward to the Death of Chriſt, to ſhew that he was to come and ſuffer.</p>
+            <p n="2">2. Baptiſm under the Goſpel points upward, to ſhew that Chriſt is come, and hath ſuffered, and is aſcended, though baptiſm was inſtituted before Chriſt's Sufferings; juſt as things are ſpo<g ref="char:EOLhyphen"/>ken in the preſent Tenſe for the future, as con<g ref="char:EOLhyphen"/>cerning Chriſt's birth and nativity, in <hi>Iſa.</hi> 9.6. <hi>For unto us a child is born:</hi> Chriſt came by water and blood, 1 <hi>John</hi> 5.6. <hi>For even Chriſt our paſſover is ſacrificed for us,</hi> 1 Cor. 5.7.</p>
+            <p>Therefore Chriſt called his own Sufferings his baptiſm:</p>
+            <pb n="37" facs="tcp:137074:19"/>
+            <p>That is, calling the thing it ſelf by the name of that which repreſents it:</p>
+            <p>And Chriſt was really circumciſed and alſo bap<g ref="char:EOLhyphen"/>tized, both which pourtrayed his Death and Suf<g ref="char:EOLhyphen"/>ferings, <hi>Col.</hi> 2.13, 14.</p>
+            <p>Thus you ſee how the Ceremonial Law, and the new Diſpenſation of the Goſpel, were related one to the other; the Ceremonial Law was a Shadow of the Image of Chriſt in his Ordinances; And in the Goſpel-Ordinances, thoſe Heavenly Things, the Image of Chriſt himſelf is held forth unto us, <hi>Heb.</hi> 10. <hi>For the law having a ſhadow of good things to come, and not the very image of the things.</hi>
+            </p>
+            <p n="5">5. Thoſe that are baptized by the Holy Ghoſt, are not ſaid to be dipped into the Holy Ghoſt; but the Graces of the holy Spirit are poured out upon them, and ſhed abroad in their Hearts, <hi>Iſa.</hi> 44.3. <hi>Joel</hi> 2.28. <hi>Acts</hi> 2.18. Thus you may ſee that I have proved from the Ceremonial Law, that baptiſm is by ſprinkling, and not by dip<g ref="char:EOLhyphen"/>ping.</p>
+            <p n="6">6. And laſtly: I ſhall add one Scripture more, to corroborate that which hath been ſaid touching the mode of baptiſm, which is that famous Text in 1 <hi>Pet.</hi> 3. <hi>When once the long-ſuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is eight ſouls, were ſa<g ref="char:EOLhyphen"/>ved by water.</hi>
+            </p>
+            <p>
+               <hi>The like figure whereunto, baptiſm doth alſo now ſave us, (not the putting away of the filth of the fleſh, but the anſwer of a good conſcience towards God) by the reſurrection of Jeſus Chriſt.</hi>
+            </p>
+            <p>Here are ſeveral things of great note in this Text of Scripture.</p>
+            <p n="1">1. Here is the twofold patience of God; firſt he waited patiently on the old ungodly. World for their Repentance.</p>
+            <p n="2">
+               <pb n="38" facs="tcp:137074:20"/>2. His patience in waiting on <hi>Noah</hi> until he had prepared the Ark for the ſaving himſelf and his Houſhold.</p>
+            <p n="3">3. Here is the fewneſs of the Number of theſe which were ſaved, among the many Thouſands of Families of the Earth, <hi>viz.</hi> but eight perſons, and they were ſaved by water; that which was a moſt dreadful diſpenſation of Gods Wrath to the old ungodly World, was a diſpenſation of diſtin<g ref="char:EOLhyphen"/>guiſhing Love and Grace unto <hi>Noah</hi> and his Family; for the Text telleth us, they were ſaved by water; the like figure whereunto, even bap<g ref="char:EOLhyphen"/>tiſm doth alſo now ſave us.</p>
+            <p n="4">4. Here are two things enveloped in theſe words; Firſt, As <hi>Noah</hi>'s temporal preſervation and deliverance in and by the Ark was typical of eternal Life and Salvation, by Jeſus Chriſt the Ark of Gods Covenant, ſo is baptiſm alſo.</p>
+            <p n="5">5. None are eternally ſaved by, nor for, their being baptized, no more than all were ſaved eter<g ref="char:EOLhyphen"/>nally that were in the Ark; for if it were ſo, then all would be ſaved that were, are, or ſhall be, baptized; for external holineſs will not give them a Right to eternal Salvation, nor foederal holineſs neither, though inherent holineſs doth: Pray mind the Apoſtles Words; for ſaith he, <hi>The like figure whereunto, even baptiſm doth alſo now ſave us, (not the putting away of the filth of the fleſh,</hi> (that is external holineſs) <hi>but the anſwer of a good con<g ref="char:EOLhyphen"/>ſcience towards God) by the reſurrection of Jeſus Chriſt.</hi>
+            </p>
+            <p>There is Internal Grace and Holineſs; Tempo<g ref="char:EOLhyphen"/>ral ſalvation and deliverances are not a ſure ſign of Eternal ſalvation; nor external purification, or putting away the filth of the fleſh, without in<g ref="char:EOLhyphen"/>ward heart-purification by the Reſurrection of Je<g ref="char:EOLhyphen"/>ſus Chriſt, of which <hi>Noah</hi>'s preſervation was a true Type or ſign, and Water-baptiſm is no more.</p>
+            <p n="6">
+               <pb n="39" facs="tcp:137074:20"/>6. What analogy is there between <hi>Noah</hi>'s pre<g ref="char:EOLhyphen"/>ſervation and dipping in baptiſm? for the Text ſaith plainly, that baptiſm maketh the like figure unto it: To which I anſwer in the negative, There is none at all; it is altogether incongruous; all that can be ſaid of it is this, namely, It makes a true figure of Gods Wrath on the old drowned World; for they were all immerſed and de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p n="7">7. And laſtly: What analogy or congruity is there between <hi>Noah</hi>'s preſervation and ſprinkling in baptiſm? To which I anſwer in the affirma<g ref="char:EOLhyphen"/>tive, There is a ſweet harmonious Agreement be<g ref="char:EOLhyphen"/>tween them; for ſprinkling in baptiſm is the like figure.</p>
+            <p n="1">1. As <hi>Noah</hi>'s Preſervation and his Family, was a Mark and Token of Gods diſtinguiſhing Love and Grace unto them above all the reſt of the World, even ſo is Baptiſm now to all true Chri<g ref="char:EOLhyphen"/>ſtian believers, and their children, which is the Figure thereof, a Mark and Token of Gods di<g ref="char:EOLhyphen"/>ſtinguiſhing Love and Grace unto them, above all other perſons in the World; for baptiſm is a ſealing the Name of God upon them, whereby they are externally received into the Family of Chriſt; for whoſo ſhall receive one ſuch little child in Chriſts name, receives Chriſt himſelf.</p>
+            <p n="2">2. As <hi>Noah</hi> and his Family were all in the Ark, even ſo believers and their ſeed are all in the Co<g ref="char:EOLhyphen"/>venant, and therefore they all ought to have the Figure of <hi>Noah</hi>'s Preſervation adminiſtred unto them, namely, Water-baptiſm, and that by ſprink<g ref="char:EOLhyphen"/>ling, otherwiſe it cannot anſwer to the Figure of <hi>Noah</hi>'s Preſervation; for he nor none of his Fa<g ref="char:EOLhyphen"/>mily went over-board into the water, and were dipped, but was ſprinkled with the Rain from Heaven, and with the water that did fly over in<g ref="char:EOLhyphen"/>to the Ark by the beating of the Waves againſt
+<pb n="40" facs="tcp:137074:21"/> it, even as it doth againſt a ſhip at ſea in a ſtoo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by which the Mariners are often ſprinkled; and know this my ſelf experimentally; but if any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Mariners are dipped in the ſea, they are com<g ref="char:EOLunhyphen"/>monly drowned.</p>
+            <p n="3">3. And laſtly: As the Waters in mercy b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> up the Ark and ſaved <hi>Noah</hi> and his Family, eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo in judgment it drowned all the World beſides for the Text ſaith that <hi>Noah</hi> was ſaved by wate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto which baptiſm is annexed. Thus I have p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ved that ſprinkling in baptiſm is of Divine Inſti<g ref="char:EOLhyphen"/>tution, and dipping for baptiſm but a human Invention.</p>
+            <p n="7">7. Saith Mr. <hi>D. Habitual Faith is not to be f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the primitive Fathers Writings.</hi> To which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus reply:</p>
+            <p>What is that to us? I will put it to a fair and ſhort Iſſue; which ſhall be this: Either Mr. <hi>D.</hi> muſt grant, that all elect dying Infants have Ha<g ref="char:EOLhyphen"/>bitual Faith, otherwiſe he muſt totally deny Ori<g ref="char:EOLhyphen"/>ginal ſin; which he pleaſe; here is his choice; for this is the genuine conſequence of it, witho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offering the leaſt force or violence unto his Alle<g ref="char:EOLhyphen"/>gation.</p>
+            <p n="1">1. For Firſt, If all young Infants by nature are guilty of <hi>Adam</hi>'s Tranſgreſſion, then they cannot be ſaved without Regeneration; for there is no paſſing immediately out of the Kingdom and Dominion of Sin, and Satan into the Kingdom of Glory; for there is a great Gulf fixed between them, <hi>Luke</hi> 16.26. And if they are not in the Ark of Gods preventing Grace, to ferry then over, they muſt periſh; for the only Road to the Kingdom of Glory lyeth through the Kingdom and Dominion of Gods free preventing Grace for all old and young that are ſaved, <hi>Eph.</hi> 2.8.</p>
+            <p n="2">2. All young Infants by nature are guilty of Original Sin and depravation, <hi>Pſal.</hi> 51. <hi>Behold I
+<pb n="41" facs="tcp:137074:21"/> was ſhapen in iniquity, and in ſin did my mother con<g ref="char:EOLhyphen"/>ceive me.</hi>
+            </p>
+            <p>Rom. 3. <hi>For all have ſinned, and come ſhort of the glory of God.</hi>
+            </p>
+            <p>Therefore they muſt have Grace poured into their Souls, to ſubdue and conquer that original depravation, or they cannot be ſanctified, nor ſaved; for we all received our very ſhape and firſt being in ſin: Therefore they muſt have Grace to unite them to Chriſt; the loſt Image of God by the Fall of <hi>Adam,</hi> muſt be reſtored unto them, and re-inſtamped upon them; and Chriſt, with all the Graces of his Spirit, muſt be formed in them, or God will never ſave them, nor be recon<g ref="char:EOLhyphen"/>ciled unto them, no more than he will to the Fallen Angels; and this muſt be done by the Infuſion of Gracious Habits into their Souls, 1 <hi>John</hi> 3.9. <hi>Whoſoever is born of God doth not commit ſin; for his ſeed remaineth in him:</hi> This Seed of God is the Principles and Habits of Grace, which is a Fruit of the Spirit; but Grace in Act and Exerciſe is called the Fruit of the Spirit.</p>
+            <p n="3">3. Habitual Grace is ſufficient by the powerful Agency of the Spirit, to ſubdue and conquer ori<g ref="char:EOLhyphen"/>ginal Depravation in regenerating and changing their ſtate, and making them Partakers of the Divine Nature by the application of the Righte<g ref="char:EOLhyphen"/>ouſneſs and Merits of Jeſus Chriſt, for Juſtifica<g ref="char:EOLhyphen"/>tion and Sanctification, by the aforeſaid Habitual Grace, inſtrumentally of which Faith is ſupream, becauſe without Faith it is impoſſible to pleaſe God.</p>
+            <p n="4">4. The ſalvation of all Gods Elect, both old and young, is begun, carried on, and finiſhed, by the Work of Chriſt without us, and by the power<g ref="char:EOLhyphen"/>ful Operation of his holy Spirit within us; Chriſt ever lives to make Interceſſion at the Right hand of God, for the Application of his Satisfaction to
+<pb n="42" facs="tcp:137074:22"/> the Fathers Juſtice for us; and his Spirit abide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in us, to help our infirmities, in making Inte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceſſion for us alſo, with groanings which cannot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uttered, <hi>Rom.</hi> 8.26, 27.</p>
+            <p>And thus all Elect dying Infants are made me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to partake of the Inheritance with the Saints <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, even as all Adult believers are; for this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the only way in which God doth juſtifie, ſanctif<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſave all his choſen People, both old and young and therefore it is emphatically called the Fai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Gods Elect, <hi>Titus</hi> 1.1.</p>
+            <p n="5">5. Wherefore if any dying Infants are any pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Gods Elect, as that they are, then they m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have this Faith, becauſe it is peculiar to God Elect and to none elſe, which is the Faith of the Operation of God, and not by maturity of yea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for he is the Author and the Finiſher of it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 12.2. And it is the gift of God, <hi>Eph.</hi> 2.8. We reverence be it ſpoken, God may be compared <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man that maketh a Watch, with all the Wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Pins, and Members thereof; but it may be, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doth not wind it up, and ſet it a going as ſoon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he hath made it; but the Watch is a complea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Watch notwithſtanding, though it ſhould never <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet a going; but it is ready to go, whenever the Watch-maker pleaſe: Even ſo God forms and fa<g ref="char:EOLhyphen"/>ſhions the new creature with all its lineaments and members in the Souls of his Elect, namely, all the Graces of his Spirit; but the new creature ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> act nor move without Divine Influence, no more than the Watch can go of its ſelf; and God m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take either old or young into Glory, as ſoon as the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are regenerated and born again, and never give them time to act Grace; the Thief upon the Cro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had but very little time to act Grace in.</p>
+            <p n="6">6. For Perſons to imagine or dream of San<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fication and Salvation by the Imputation of Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Righteouſneſs and Merits, without the Inſtrumen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allity
+<pb n="43" facs="tcp:137074:22"/> of Habitual Faith to regenerate and change their Natures, is meer ſpiritual Nonſenſe; for Chriſt's Righteouſneſs and Merits are not to be ap<g ref="char:EOLhyphen"/>plied, nor expoſed in any other way, nor by any other means, but what God himſelf hath appoin<g ref="char:EOLhyphen"/>ted and revealed unto us, and therefore it is cal<g ref="char:EOLhyphen"/>led the Righteouſneſs of Faith; but according to our Opponents Principles, it is a Righteouſneſs without Faith: Pray, dear Friends, conſider of this, and be no longer deluded.</p>
+            <p n="7">7. I challenge all our Opponents, every Soul of them, to produce but one ſingle Text of Scrip<g ref="char:EOLhyphen"/>ture, throughout the whole Book of God, that doth give the leaſt ſhadow of countenance to this kind of Doctrine of theirs, namely, That Elect dying Infants can be ſanctified and ſaved without Habitual Grace, of which Faith is the chief.</p>
+            <p n="8">8. That ſalvation of dying Infants, which our Opponents ſtickle ſo ſtrenuouſly for, is a Salvati<g ref="char:EOLhyphen"/>on without Juſtification and Regeneration, which in plain Engliſh is to ſave them in a ſtate of ori<g ref="char:EOLhyphen"/>ginal ſin and depravation; for the Antipaedobap<g ref="char:EOLhyphen"/>tiſts will not by any means, allow young Infants to be capable of receiving the Habits and Seeds of Grace, to regenerate and change their Natures, though Chriſt himſelf (who ſpake as never man ſpake like him) hath told us plainly, that <hi>Except a man be born again, he cannot ſee the kingdom of God:</hi> And the Scripture alſo ſaith, <hi>Without holineſs no man ſhall ſee the Lord.</hi>
+            </p>
+            <p n="9">9. A young Infant in the Womb, or in the Cra<g ref="char:EOLhyphen"/>dle, is as much polluted, and depraved by nature, as the oldeſt and vileſt ſinner upon Earth, and as much a child of Wrath as he, and he hath as much need to be juſtified, regenerated, and ſanctified, as he; therefore all thoſe that deny this, muſt deny original ſin; which is to overthrow the very Foundation of mans ſalvation.</p>
+            <p n="10">
+               <pb n="44" facs="tcp:137074:23"/>10. I never read one word in all the Writ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Opponents about the Controverſie, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> declared, or once diſcovered, the abſolute ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſity of Juſtification and Regeneration, in order<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſalvation of Elect dying Infants; I deſire th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to produce us the Book and Page if they o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where there is any ſuch Doctrine: It is true <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tell us fine quaint Stories of Sanctification, a Application of the Righteouſneſs and Merits Jeſus Chriſt, for the ſalvation of Elect dying <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fants, and of their great hope and charity <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have for them, and yet, in the ſame breath, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tell us, that they are not capable of receiving <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Graces of the Spirit, by which it is to be brou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about and effected; which knocks all their ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and hopes for dying Infants on the head, concer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing their future ſtate of Happineſs; for Mr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very ingenuouſly hath publiſhed and confeſſed his Book, that he is <hi>not capable of underſtands the Notion of Habitual Faith; for</hi> (ſaith he) <hi>it's <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fine for my uncultivated head:</hi> That is, His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reaſon cannot fathom it.</p>
+            <p n="11">11. I do poſitively affirm, as I ſhall Anſwer at the great day of Judgment, that all thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not allow Elect dying Infants to be capable receiving Habitual Grace, to regenerate, ſancti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and change their Natures, do at once reprob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them all by their Principle, and bar the Gate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heaven faſt againſt them: For,</p>
+            <p n="12">12. And laſtly: If the ſalvation of loſt ſinne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a pure Deſign of preventing Grace, then I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> affirm, That a young Infant is as capable of ſalva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on, as any Adult perſon is whatſoever; but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſalvation of loſt ſinners is a pure Deſign of p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venting Grace: Therefore a young Infant i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> capable of ſalvation as any Adult perſon is w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſoever.</p>
+            <p n="1">
+               <pb n="45" facs="tcp:137074:23"/>1. <hi>It is a pure deſign of preventing Grace, with a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpect to God the Father that contrived it.</hi>
+            </p>
+            <p n="2">2. <hi>It is ſo with reſpect to Chriſt the Son, that accom<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liſhed it.</hi>
+            </p>
+            <p n="3">3. And laſtly: <hi>It is ſo with a reſpect to Man, that hath the benefit of it.</hi>
+            </p>
+            <p>
+               <hi>Firſt Grace and ſubſequent perſevering Grace unto Eternal Salvation, is all of pure preventing Grace, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is brought about by effectual Calling, Juſtification, Adoption, and Sanctification; for preventing Grace <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uns through them all;</hi> As hath been moſt elegantly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lluſtrated, amplified, unfolded, and applied, by that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minent Divine, who is worthy to be ranked among the reſt of our Stars of the firſt Magnitude, in this Hemiſphere of Gods Heaven upon Earth, the Church, namely, Mr. <hi>M. M.</hi> of <hi>Stepney,</hi> from that Famous Text of Chriſt's wonderful preventing Grace, in St. <hi>Luke</hi> 19.10. <hi>For the Son of man is come to ſeek and to ſave that which was loſt.</hi>
+            </p>
+            <p n="1">1. That the ſalvation of loſt ſinners is a pure Deſign of preventing Grace, appears in theſe following Particulars.</p>
+            <p n="1">1. In that men by nature are ſpiritually dead, as in <hi>Eph.</hi> 2. <hi>And you hath he quickened who were dead in treſpaſſes and ſins.</hi>
+            </p>
+            <p>The ſinner being dead, is not able to quicken nor raiſe himſelf, but God doth it; —<hi>you hath [he] quickened,</hi> &amp;c. that is God: Therefore it is preventing Grace.</p>
+            <p n="2">2. If the ſinner be loſt, and God is found by him, when he ſought him not, then it is pure pre<g ref="char:EOLhyphen"/>venting Grace; but ſo it is, as you may ſee in <hi>Rom.</hi> 10. <hi>I was found of them that ſought me not, I was made manifeſt to them that asked not after me;</hi> Compare with <hi>Iſa.</hi> 65.1.</p>
+            <p n="3">
+               <pb n="46" facs="tcp:137074:24"/>3. In <hi>Ezek.</hi> 16. —<hi>thou waſt caſt out in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> field, to the lothing of thy perſon, in the day that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> waſt born.</hi>
+            </p>
+            <p>
+               <hi>And when I paſſed by thee, and ſaw thee polluted in thine own blood, I ſaid unto thee when thou waſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy blood, Live: yea, I ſaid unto thee when thou waſt in thy blood, Live.</hi>
+            </p>
+            <p n="4">4. Man by nature is not only in a ſtate of ſepa<g ref="char:EOLhyphen"/>ration from God, but alſo in a ſtate of Enmity againſt him; and until that Enmity be ſlain, and the Soul united to Chriſt, which is done by Ha<g ref="char:EOLhyphen"/>bitual Faith inſtrumentally, there can be no hope of Reconciliation nor Eternal Salvation. I ſay again, God will as ſoon ſave the Fallen Angels, as ſave any Fallen ſinner, old or young, in the Womb or out of it, that dyeth in a ſtate of ſepa<g ref="char:EOLhyphen"/>ration and Enmity againſt God, as all Mankind by nature are, <hi>Pſal.</hi> 51. <hi>Rom.</hi> 3.11, 12, 23.</p>
+            <p>It muſt be Habitual Faith inſtrumentally that muſt juſtifie the ſinner, by taking hold of the Righteouſneſs and Merits of Jeſus Chriſt, and ap<g ref="char:EOLhyphen"/>plying it to the ſinner, by the manuduction of the holy Spirit; for God is the Author and the Fi<g ref="char:EOLhyphen"/>niſher of our Faith.</p>
+            <p n="5">5. In the fifth and laſt place, to conclude this Head: No Saint of God ever was, or ever will be, juſtified, neither for, or by, the Act of Faith; and the reaſon is plain, becauſe that would be for a man to be juſtified by Works, which would de<g ref="char:EOLhyphen"/>ſtroy Juſtification by Faith in the Righteouſneſs of Chriſt; which is Popery all over; for there is no Juſtification without the Grace of Faith, though not for the Acting of that Grace.</p>
+            <p>Therefore it is all a pure Deſign of preventing Grace, from the Foundation to the Top-ſtone of mans Salvation; it is all Grace, Grace, pure pre<g ref="char:EOLhyphen"/>venting Grace: And therefore an Elect dying In<g ref="char:EOLhyphen"/>fant is as capable of Juſtification, Regeneration,
+<pb n="47" facs="tcp:137074:24"/> Adoption, Sanctification, and Eternal Salvation, as any Adult perſon is whatſoever. And thus I have proved, That Habitual Faith is eſſentially neceſſary for the ſalvation of dying Infants, as well as Adult believers: None can be ſaved without it; for there can be no Acts of Faith, where there are not firſt Habits of Faith; it is as impoſſible, as it is for a Tree to grow, and bear Fruit, without a Root.</p>
+            <p n="8">8. Saith Mr. <hi>D.</hi> in <hi>page</hi> 6. <hi>It's to be wondered at, how you come to ſtop at Baptiſm, and do not let chil<g ref="char:EOLhyphen"/>dren partake of the Lords-ſupper,</hi> &amp;c. Mr. <hi>D.</hi> can ſee no reaſon <hi>why Infants ſhould not be perfect Mem<g ref="char:EOLhyphen"/>bers of the Church viſible, if they are any at all.</hi>
+            </p>
+            <p>To which I reply,</p>
+            <p n="1">1. Truly it is to be wondered at, that ſuch an inſipid Argument ſhould be deſtilled from the Brain, and drop from the Pen, of a Perſon of ſuch natural Endowments, as Mr. <hi>D.</hi> is generally taken to be: But ſuch is the unſearchable Wiſdom of God, to confound the Wiſdom of the Wiſe, and to entangle them in their own Devices, that no fleſh ſhould glory in his preſence. Now I ſhall make good what I have ſaid, with a reſpect to this Argument.</p>
+            <p n="1">1. It cannot be denied but that the Jews chil<g ref="char:EOLhyphen"/>dren were perfect Members of the Church viſible when they were circumciſed at Eight days old; for the Apoſtle tells us, that <hi>unto them were com<g ref="char:EOLhyphen"/>mitted the oracles of God, Rom.</hi> 3.1, 2. But yet notwithſtanding, they did not partake of the Paſſ<g ref="char:EOLhyphen"/>over; and this I am ſure, that the Goſpel of Grace, and Chriſt the Purchaſer of Grace, did not at all diminiſh the gracious Priviledges of the children of Chriſtian believers.</p>
+            <p n="2">2. Circumciſion was inſtituted about four hun<g ref="char:EOLhyphen"/>dred and thirty years before the Ordinance of the Paſſover was in being; and were there not perfect
+<pb n="48" facs="tcp:137074:25"/> Members of the Church viſible before the Paſſover was inſtituted, which was juſt the Night before they were delivered out of that <hi>Egyptian</hi> Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dage?</p>
+            <p n="3">3. To come nearer home: All thoſe men, wo<g ref="char:EOLhyphen"/>men, and children, that were baptized by <hi>John the Baptiſt,</hi> were perfect Members of the Church viſi<g ref="char:EOLhyphen"/>ble, by vertue of their Covenant-relation to <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> who was a Type of Chriſt, the Father of al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Faithful, and yet they did not partake of the Ordinance of the Lords-ſupper; for it was im<g ref="char:EOLhyphen"/>poſſible they ſhould, becauſe that Ordinance was not inſtituted until about thirty years after; for as Circumciſion was inſtituted before the Paſſover, ſo was Baptiſm before the Lords-ſupper; and as the Paſſover was not inſtituted until the Night in which <hi>Iſrael</hi> was delivered out of the <hi>Egyptian</hi> Captivity, ſo the Lords-ſupper was not inſtituted until the Night in which our Lord was betrayed, when he Actually delivered us out of Spiritual <hi>Egyptian</hi> Bondage.</p>
+            <p n="3">3. If none are perfect Members of the Church viſible until they partake of the Lords ſupper, ther if any of their own Opinion die, after they are dipped, before they partake of the Lords-ſupper, (as no doubt but that many do) then they dye imperfect Members of their Church viſible.</p>
+            <p n="4">4. Baptiſm was in force long before the Paſſ<g ref="char:EOLhyphen"/>over was aboliſhed; for our Saviour Chriſt did eat the Paſſover, and inſtitute the Lords-ſupper, both at a Meal, the very Night in which he was betrayed; which was the total abolition of the former, and the eſtabliſhment of the latter.</p>
+            <p n="5">5. Our Saviour Chriſt himſelf hath in effect, declared the Infant-ſeed of Believers to be perfect Members of the Church viſible, in <hi>Mat.</hi> 19.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe Words, <hi>viz. Then were there brought unto him little children, that he ſhould put his hands on them,
+<pb n="49" facs="tcp:137074:25"/> and pray: and the diſciples rebuked them. But Jeſus ſaid, Suffer little children, and forbid them not to come unto me: for of ſuch is the kingdom of heaven:</hi> That is, the Church. Surely the Kingdom of Heaven is not comprized and made up of imper<g ref="char:EOLhyphen"/>fect Members, or Subjects.</p>
+            <p>Thus you ſee this Argument is pluckt up by the Roots.</p>
+            <p n="9">9. Saith Mr. <hi>D.</hi> in <hi>page</hi> 6. <hi>Many of thoſe you call outward Priviledges of the Covenant of Grace, our children have as well as yours:</hi> 1. <hi>We dedicate them to God by our Prayers for them as ſoon as born, and thoſe of the Church, into which in time we hope they will incorporate:</hi> 2. <hi>Our Example:</hi> 3. <hi>Religious Education; by catechiſing, and by daily Prayers for them,</hi> &amp;c.</p>
+            <p>Here are ſeveral things worthy to come under our conſideration, from theſe Premiſes afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p n="1">1. Mr. <hi>D.</hi> aſſerts and declares, that their chil<g ref="char:EOLhyphen"/>dren have many of thoſe we call outward Privi<g ref="char:EOLhyphen"/>ledges of the Covenant of Grace, as well as ours; but he will not allow them to be outward Privi<g ref="char:EOLhyphen"/>ledges, <hi>&amp;c.</hi> but ſaith, that we call them ſo.</p>
+            <p n="2">2. Either they are Priviledges of the Covenant of Grace, or they are not; and if they are not ſo, then they are no Priviledges at all; for they muſt be of the Covenant of Works; they muſt be of Grace or of Works; this is clear from the Scrip<g ref="char:EOLhyphen"/>ture, in <hi>Rom.</hi> 11. <hi>And if by grace, then it is no more of works: otherwiſe grace is no more grace. But if it be of works, then it is no more grace: other<g ref="char:EOLhyphen"/>wiſe work is no more work.</hi>
+            </p>
+            <p>Therefore if thoſe we call outward Priviledges of the Covenant of Grace, of which our Oppo<g ref="char:EOLhyphen"/>nents children partake of as well as ours, are not outward Priviledges of the Covenant of Grace,
+<pb n="50" facs="tcp:137074:26"/> then they are of the Covenant of Works, which is no Priviledge at all thus to boaſt of.</p>
+            <p n="3">3. This deſtroys that common and unclean Na<g ref="char:EOLhyphen"/>tion of theirs, <hi>viz.</hi> That the children of <hi>Turk,</hi> and <hi>Heathens</hi> have as much Priviledge as the chil<g ref="char:EOLhyphen"/>dren of Chriſtian Believers; for <hi>Turks</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> do not dedicate their children to God in Chriſt, as ſoon as born: Which I take to be Mr. <hi>D</hi>'s. meaning, though he will not allow them one Dram of Habitual Grace; which renders it wholly invalid.</p>
+            <p n="4">4. This Dedication of their children as ſoon as born, and Prayers for them, muſt not paſs with<g ref="char:EOLhyphen"/>out a ſtrickt Examination, for fear leaſt it ſhould prove to be but blear-eyed <hi>Leah,</hi> inſtead of beau<g ref="char:EOLhyphen"/>tiful <hi>Rachel,</hi> to uſe our Authour's own Phraſe: Therefore I will bring it into the Ballance of the Sanctuary, and try whether it be weight or not.</p>
+            <p n="1">1. How can Mr. <hi>D.</hi> dedicate his children to God in prayer for them as ſoon as born, ſeeing he will not allow them to be capable of receiving the Seed and Habits of Grace to unite them to Chriſt? For it is Habitual Faith that is the Grace which doth that inſtrumentally; for it cannot be Actual Faith that unites a Soul to Chriſt; that is im<g ref="char:EOLhyphen"/>poſſible, becauſe that would be for Faith to act before it received its being; there muſt be the Root before there can be any Fruit; there muſt be Habitual Faith before there can be Actual Faith: Therefore it is Habitual Faith that unites the So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to Chriſt in Regeneration, notwithſtanding Mr. <hi>D.</hi> and thoſe of his Opinion's deriding and ridiculin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it; for it is called the <hi>faith of Gods elect.</hi>
+            </p>
+            <p n="2">2. I obſerve that Mr. <hi>D.</hi> doth own, that thoſe children that are ſaved dying in their Infancy are Elected; therefore I deſire Mr. <hi>D.</hi> to tell us what ſort of Faith that is which doth of right belong unto them; for it is evident from <hi>Titus</hi> 1.1. tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="51" facs="tcp:137074:26"/> there is a Faith which doth peculiarly belong un<g ref="char:EOLhyphen"/>to all Gods Elect, and to none elſe; and our Op<g ref="char:EOLhyphen"/>ponents themſelves will not allow Infants to be capable of acting Faith in their own perſons, nei<g ref="char:EOLhyphen"/>ther indeed can they in an ordinary way, as Adult believers do: Therefore it muſt be Habitual Faith that unites them to Chriſt, their Head and Hus<g ref="char:EOLhyphen"/>band; and Mr. <hi>B. D.</hi> muſt own it too, or raze [that] Notion out of his Book, <hi>viz.</hi> That all dy<g ref="char:EOLhyphen"/>ing Infants that are ſaved are elected: What are they elected, and ſhall they not have the Faith of Gods Elect? Where is the ſenſe of this? for there is but one Faith, as well as one Baptiſm, which belongeth to all the Elect of God, and therefore emphatically called the Faith of Gods Elect.</p>
+            <p n="3">3. Though young Infants are not capable of the profeſſion of Faith, yet they are of the re<g ref="char:EOLhyphen"/>ception and poſſeſſion of Faith; for God is the Authour and the Finiſher of our Faith, who worketh all things according to the counſel of his own Will.</p>
+            <p n="4">4. The very firſt Moment of Gods Infuſion of Grace into the Soul, that Soul is united to Chriſt: in which the creature is wholly paſſive: Therefore without the hope of this, they dedi<g ref="char:EOLhyphen"/>cate their children to God in their own unbelief, and their childrens original ſins and depravation; which is to offer unto God a corrupt thing, which God abhors, <hi>Mal.</hi> 1.14: For no unclean thing ſhall enter into Heaven.</p>
+            <p n="5">5. Though I do not hold that all Infants are ſaved that are dedicated to God in baptiſm, yet we do not bar the Gate of Heaven againſt them by Principle, <hi>viz.</hi> by denying them to be capable of receiving thoſe Habits of Grace that muſt qualifie them for eternal life and ſalvation if ever they are ſaved.</p>
+            <p n="6">
+               <pb n="52" facs="tcp:137074:27"/>6. The conſequences of this kind of dedication and Prayers for their dying Infants are theſe, That God would accept of them and ſave that in their ſins, <hi>viz.</hi> in a ſtate of depravation and ſeparation from Chriſt; which is for them to go to Heaven, and be ſaved in ſome other unknown way which God never appointed.</p>
+            <p n="7">7. For unleſs they are united unto God i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, they are not only in a ſtate of ſeparation from God, but alſo in a ſtate of Enmity againſt him: Therefore unleſs they pray unto God for their dying Infants, and believe that their chil<g ref="char:EOLhyphen"/>dren are capable of receiving, and God of infu<g ref="char:EOLhyphen"/>ſing Grace into their Souls, to unite them to Chriſt, to juſtifie and acquit them from their ori<g ref="char:EOLhyphen"/>ginal ſins, and to ſanctifie and change their Na<g ref="char:EOLhyphen"/>tures, and make them partakers of the Divine Na<g ref="char:EOLhyphen"/>ture; all their Prayers for them on this Topick, are but like a fine gilded painted Sepulchre, which appears very fair and beautiful without, but full of dead mens bones and putrefaction within.</p>
+            <p n="8">8. All Prayers (of this kind eſpecially) ought to have ſome footing in a Promiſe; for otherwiſe it is but preſumption, to pray for that which God never promiſed to grant; and alſo, that they do not believe the creature can be made capable to receive: And this is the ſum and ſubſtance of their Principle on this account.</p>
+            <p n="1">1. For firſt they deny that the Seed of Believer are in the Covenant of Grace, or that they have any thing to do with that Promiſe which God made unto <hi>Abraham,</hi> though it is the ſame Pro<g ref="char:EOLhyphen"/>miſe which the Apoſtle ſaith belongeth unto then and their children, in <hi>Acts</hi> 2.39.</p>
+            <p n="2">2. They deny that young Infants are capable of receiving Habitual Faith, though the whole current of the ſacred Scripture is againſt them,
+<pb n="53" facs="tcp:137074:27"/> as in <hi>Gen.</hi> 17.7. <hi>I will be thy God, and the God of thy ſeed after thee,</hi> &amp;c.</p>
+            <p>Now that this Promiſe is devolved upon the believing Gentiles, and their Seed, I have already proved, as in <hi>Iſa.</hi> 44. <hi>I will pour my Spirit upon thy ſeed, and my bleſſing upon thine off-ſpring,</hi> &amp;c.</p>
+            <p>And in <hi>Acts</hi> 2.39. <hi>For the promiſe is unto you, and to your children, and to all that are afar off, even as many as the Lord your God ſhall call.</hi>
+            </p>
+            <p>Rom. 3. <hi>Cometh this bleſſedneſs then upon the cir<g ref="char:EOLhyphen"/>cumciſion onely,</hi> (theſe were the Jews) <hi>or upon the uncircumciſion alſo?</hi> (theſe are the Gentiles) <hi>For we ſay that faith was reckoned to Abraham for righ<g ref="char:EOLhyphen"/>teouſneſs.</hi>
+            </p>
+            <p>
+               <hi>And he received the ſign of circumciſion, a ſeal of the righteouſneſs of the faith,</hi> (Here you ſee what Circumciſion was: It was a Sign and Seal of the Righteouſneſs of Faith.) <hi>which he had yet being uncircumciſed: that he might be the father of all them that believe, though they be not circumciſed; that righteouſneſs might be imputed to them alſo.</hi>
+            </p>
+            <p>Now if they do not go to God in prayer for their children in the Faith of this Promiſe, their Prayers will avail them little or nothing.</p>
+            <p n="9">9. I obſerve that Mr. <hi>D.</hi> is ſo true to his Prin<g ref="char:EOLhyphen"/>ciple, as that he hath not ſaid that he dedicates his Children to God by Faith and Prayer as ſoon as born, but he hath ſaid, <hi>We dedicate them to God by our Prayers for them as ſoon as born:</hi> For if his Prayers had any regard to Gods Promiſe to belie<g ref="char:EOLhyphen"/>vers and their children, then it would have been by Faith in Prayer; for what is not of Faith is Sin.</p>
+            <p n="10">10. How can thoſe perſons who are againſt In<g ref="char:EOLhyphen"/>fant-baptiſm, and deny that young Infants are capable of receiving Grace, or that they have any relation to the Promiſe, pray for their In<g ref="char:EOLhyphen"/>fants, either dying or living, when according to
+<pb n="54" facs="tcp:137074:28"/> their avowed Principle, there is nothing for them to act Faith upon, being they will not allow them to be capable of receiving the Promiſe, in which Chriſt and all the Graces of his Spirit are con<g ref="char:EOLhyphen"/>veyed it to their Souls? And to deny this, is to deny all; for to exclude them of the Promiſe, is to exclude them from Heaven, and deſtroy the very foundation of Prayer.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt conſtruction that can be made of theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Prayers for their dying Infants, is onely this, <hi>viz.</hi> That God would be pleaſed to ſpare and continue their Lives until they came to Years of diſcretion and maturity, that ſo they may be capable of receiving Grace by their own natural ſtrength and ability, and exerciſe it by the aforeſaid power and ability: This is the natu<g ref="char:EOLhyphen"/>ral genuine tendency of this their Principle; and whoſoever dives into it ſeriouſly and judiciouſly, will find it to be ſo; otherwiſe, why do they ſay that children are not capable of receiving the Habits of Grace? which highly reflects diſhonour on the Free Grace of God, and alſo the omnipo<g ref="char:EOLhyphen"/>tent Power of God; for, unleſs they do pray for their dying children, or living either, that they may be united to Chriſt, and be begotten and born of God, and juſtified by the Righteouſneſs and Merits of Chriſt, and have their original ſins ſub<g ref="char:EOLhyphen"/>dued, and their Natures ſanctified and changed, and the Image of God impreſt upon them, that they may be made meet to partake of the Inheri<g ref="char:EOLhyphen"/>tance with the Saints in Light, which muſt be by infuſing Grace into their Souls; all their Prayers ſignifie no more than their Prayers do for any o<g ref="char:EOLhyphen"/>ther outward Mercy and Injoyment. But how can they pray for their young Infants union with Chriſt, when at the ſame time, they declaim the very inſtrumental Bond of union, <hi>viz.</hi> The Grace of Faith, which is peculiar to all Gods Elect.</p>
+            <p n="2">
+               <pb n="55" facs="tcp:137074:28"/>2. You ſhall ſee how incongruous Mr. <hi>D.</hi> is in himſelf: For,</p>
+            <p n="1">1. Saith he in <hi>page</hi> 5. <hi>God knows how to ſancti<g ref="char:EOLhyphen"/>fie and ſave our dying Infants without our application of Ordinances unto them,</hi> &amp;c.</p>
+            <p n="2">2. In <hi>page</hi> 6. he ſaith, <hi>We dedicate them to God by Prayers for them as ſoon as born,</hi> &amp;c.</p>
+            <p n="1">1. He ſaith, <hi>God knows how to ſanctifie and ſave our dying Infants without our application of Ordinances unto them.</hi> Now by the ſame parity of Reaſon, Adult believers may caſt off all Ordinances, and ſay, I am in the Inviſible and Catholick Church, and God knows how to ſanctifie and ſave me with<g ref="char:EOLhyphen"/>out the application of Ordinances. This would make a notable Plea for thoſe that do caſt off Ordinances.</p>
+            <p n="2">2. It is true, that God doth know how to ſan<g ref="char:EOLhyphen"/>ctifie and ſave all Elect Infants: But here I muſt ſtop, for I dare go no further with Mr. <hi>D.</hi> be<g ref="char:EOLhyphen"/>cauſe I ſee a dangerous Precipice.</p>
+            <p n="2">2. It is alſo as true, that God hath revealed unto us how he doth ſanctifie and ſave Elect dy<g ref="char:EOLhyphen"/>ing Infants; for it is in the ſame way in which he doth ſanctifie and ſave all Elect Adult believers, as I have already ſufficiently demonſtrated and proved: For as there is but one Lord, one Faith, and one Baptiſm, even ſo there is but one way to Heaven, and that is thro' Chriſt, by Juſtification, Regeneration, Adoption, and Sanctification; for Chriſt himſelf ſaith, <hi>I am the way;</hi> and in <hi>Acts</hi> 4.12. <hi>Neither is there ſalvation in any other: for there is none other name under heaven given among men whereby we muſt be ſaved.</hi>
+            </p>
+            <p n="3">3. Is not the dedication of our children to God an Ordinance of God? and, Is not Prayer alſo an Ordinance of God?</p>
+            <p n="1">1. If the dedication of our children to God be not an Ordinance of God, why do our Opponents
+<pb n="56" facs="tcp:137074:29"/> practice it? Secondly, If Prayers to God for them be not an Ordinance of God, why do they uſe it? Why doth our Author himſelf apply theſe Ordinances of God to his children as ſoon as born, ſeeing he thus declaims them?</p>
+            <p n="2">2. If they are not Ordinances of God, then it falls under the ſin of Will-worſhip and humane Invention; and if ſo, then it would be ſaid ano<g ref="char:EOLhyphen"/>ther day, Who hath required theſe things at your hands? But,</p>
+            <p n="3">3. If they are Ordinances of God, then they ought not to be againſt the application of Ordi<g ref="char:EOLhyphen"/>nances unto them by others, ſeeing they allow it in themſelves; for Dedication without Inſtitu<g ref="char:EOLhyphen"/>tion is down-right Superſtition: Get over this Sir, if you can.</p>
+            <p>For we are to do all things [ſpiritually,] in the Worſhip and Service of God, according to the Pattern ſhewn by God himſelf unto <hi>Moſes</hi> in the Mount.</p>
+            <p n="4">4. Baptiſm (as hath been proved) is one of the Heavenly Things, or Goſpel-Church-Ordinances, which is a publick ſolemn dedication of the ſub<g ref="char:EOLhyphen"/>ject baptized, unto God in the Church, in the preſence of God, Angels, and Men, by Thankſ<g ref="char:EOLhyphen"/>giving and Prayer; for as we receive our chil<g ref="char:EOLhyphen"/>dren from God, ſo it is but reaſonable we ſhould offer them up to God through Chriſt from whom we received them: But yet notwithſtanding, we ought to dedicate them to God ſecretly as ſoon as born, and privately in our Families; for as in Prayers, there i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (1) ſecret Cloſet-prayer; (2.) there is private Family-prayer; (3.) and laſtly, there is publick Prayer in the Church Aſſembly; And the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> former may be ſaid to be prepara<g ref="char:EOLhyphen"/>tory to the latter; ſecret Prayer in the Cloſet ought not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or hinder private Prayer in the Family, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ought both theſe to excuſe
+<pb n="57" facs="tcp:137074:29"/> or impede publick Prayer in a publick Church Aſſembly.</p>
+            <p>Even ſo ought we to do in point of dedicating our children to God; firſt, it ought to be from the very Womb as ſoon as born, in ſecret devo<g ref="char:EOLhyphen"/>tion in our Cloſets, and in our Hearts by Faith, praiſing of God on the Childs behalf, that the Womb was not its Grave, and for that its Mem<g ref="char:EOLhyphen"/>bers were written in Gods Book of Creation; and alſo to pray unto God, that the name of it may be written in the Book of Life, that it may be regenerated, renewed, and ſanctified, and be ſealed up unto the Day of Redemption by the Holy Spirit.</p>
+            <p n="2">2. We ought to dedicate our Children to God in like manner aforeſaid, in our Family, with thoſe Neigbbours and Friends that are there as Inſtruments to help uſher them into the World.</p>
+            <p n="3">3. And laſtly: Theſe Dedications aforeſaid of our children as ſoon as born, muſt not hinder nor prevent our publick ſolemn Dedication of them afterwards in that Church Ordinance of Baptiſm in a more publick ſolemn manner, in the preſence of God, Angels, and Men; for the Angels are preſent in Church Ordinances and Diſcipline, and are ſtrickt Obſervators of all our Behaviour and Deportment, as in 1 <hi>Cor.</hi> 11.7, 10. Which brings me to the <hi>ſecond</hi> thing, <hi>viz.</hi> That the An<g ref="char:EOLhyphen"/>gels attend the Church in their Miniſtry, and in ſpecial manner their Miniſtry is extended to the Elect Infant-members thereof, as doth plainly ap<g ref="char:EOLhyphen"/>pear from the Words of our Saviour, in that Re<g ref="char:EOLhyphen"/>buke he gave to thoſe Diſciples that were of his own peculiar Family, when they were ſtriving among themſelves who was the greateſt in the Church, as in <hi>Mat.</hi> 18. <hi>At the ſame time came the diſciples unto Jeſus, ſaying, Who is the greateſt in the kingdom of heaven?</hi>
+            </p>
+            <pb n="58" facs="tcp:137074:30"/>
+            <p>Pray obſerve; they did not ask who ſhould be greateſt in the Kingdom of Heaven hereafter, but who is the greateſt in the Kingdom of Heaven now, in the preſent tenſe: That was as much as to ſay, Who among us Diſciples is great<g ref="char:EOLhyphen"/>eſt in the Church of God now? for they knew that Chriſt was the greateſt in the Church, and that God is greateſt in the Kingdom of Heaven in Glory.</p>
+            <p>Now pray mind Chriſts Anſwer unto them:</p>
+            <p>
+               <hi>And Jeſus called a little child unto him, and ſet him in the midſt of them, And ſaid, Verily I ſay unto you, Except ye be converted, and become as little children, ye ſhall not enter into the kingdom of heaven.</hi>
+            </p>
+            <p>This Chriſt ſpake to cure them of their Itch of Pride and Ambition, which he perceived they began to be contaminated with, and therefore he ſaid unto them, <hi>Whoſoever ſhall humble himſelf as this little child, the ſame is greateſt in the kingdom of heaven.</hi>
+            </p>
+            <p>Pray note, by the way, that Humility is the firſt ſtep unto true greatneſs in the Church: But to proceed f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther on our Saviours Words,</p>
+            <p>
+               <hi>And whoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall receive one ſuch little child in my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, receiveth me.</hi>
+            </p>
+            <p n="1">1. That is, Whoſo ſhall receive little children of believing Parents into the boſome of the Church in Chriſts Name, receives Chriſt along with them, becauſe Chriſt is externally formed in them.</p>
+            <p n="2">2. How can little children be received into the boſome of the Church in Chriſts Name, but by Baptiſm? And for a clear demonſtration of this, pray obſerve ſtrictly the Words of Chriſts general Commiſſion unto his Miniſters and Servants, and there you will find that Chriſt commanded them to baptize all <hi>in the name of the Father, and of the Son, and of the holy Ghoſt:</hi> This is in the Name of Chriſt, and to receive them into the Church in
+<pb n="59" facs="tcp:137074:30"/> the Name of Chriſt, which is by a publick ſolemn dedication of them to God in Baptiſm, <hi>Act.</hi> 2 38.</p>
+            <p>
+               <hi>But whoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall offend one of theſe little ones which believe in me, it were better for him that a millſtone were hanged about his neck, and that he were drowned in the depth of the ſea.</hi>
+            </p>
+            <p>What a dreadful threatning is here againſt all thoſe that offend theſe little ones! And for my part, I declare that I do not know who among Chriſtians there are, that do offend young Infants ſo much as all thoſe do, that are againſt their be<g ref="char:EOLhyphen"/>ing dedicated unto God in the Ordinance of Wa<g ref="char:EOLhyphen"/>ter-baptiſm. Pray mind our Saviours threatning, all you that oppoſe Infant-baptiſm, and be no longer wilful and obſtinate, for it is a moſt dread<g ref="char:EOLhyphen"/>ful one, <hi>viz. But whoſe ſhall offend one of theſe little ones,</hi> &amp;c. How [ſo] offend them? If you obſerve narrowly it will appear, that the ground of the offence is the not receiving them into the Church in Chriſts Name; for the threatning fol<g ref="char:EOLhyphen"/>lows upon that of our Saviour Chriſts ſaying, <hi>And whoſo ſhall receive one ſuch little one in my name, receiveth me: But whoſo ſhall offend me of theſe little ones which believe in me,</hi> &amp;c. The offence cometh upon the contrary of receiving them in Chriſts Name. This could not be meant of their Parents firſt reception of them into the World, at their Birth and Nativity: But ſome of our Opponents have been ſo confident in Print, as to ſay, <hi>What offences are young Infants capable of taking?</hi> which is carnal reaſon all-over; for though they are not perſonally capable of taking offence, yet Chriſt himſelf is; f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as thoſe that receive them into the Church in Chriſts Name by baptiſm, receive Chriſt himſelf, even ſo all theſe that offend them, offend Chriſt himſelf, even as thoſe that perſe<g ref="char:EOLhyphen"/>cute his People, perſecute Chriſt himſelf, becauſe by their not receiving them into the Church in
+<pb n="60" facs="tcp:137074:31"/> Chriſts Name, they ſhut Chriſt himſelf out of the Church; theref<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Chriſts muſt need<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be offended at them, <hi>Mark</hi> 9.41.42. Theſe little ones which were brought unto Chriſt to be bleſſed by him, were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of believers; and this will clearly appear to be ſo, if we do but conſider theſe things: 1. The old Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iples which were of Chriſt peculiar <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amily, rebuked thoſe that brought them, for which Chriſt rebuked them, and ſaid, <hi>Suffer little children, and forbid them not to come unto me, for of ſuch to the kingdom of heaven,</hi> Mat. 19.13, 14. and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> 10.13, 14. <hi>Luke</hi> 18.15.</p>
+            <p n="2">2. Pray who had to do to bring young Infants to Chriſt for his bleſſing on them, but their Pa<g ref="char:EOLhyphen"/>rents? And if they had not been believers them<g ref="char:EOLhyphen"/>ſelves, they would not have brought their children to Chriſt to be bleſſed by him; And for this reaſon, they muſt be the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed of believers; nay, they had the Grace of Faith in them, for they believed in Chriſt, <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 18.</p>
+            <p>Therefore I demand of our Opponents, Two Things:</p>
+            <p n="1">1. If the receiving of young Infants, the ſeed of believers, in Chriſts Name, was not to receive them into the Church? Then I demand, where they are to be received? for they mentioned in the Text were not to be received into Chriſts pe<g ref="char:EOLhyphen"/>culiar domeſtick Family, for he had his ſelect number of them, <hi>viz.</hi> the Twelve Apoſtles.</p>
+            <p n="2">2. If this receiving them in Chriſts Name be a receiving them into the Church in ſome viſible way, being of the Church before, by deſcent of believing Parents, 1 <hi>C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.14. If it be not by the Ordinance of Baptiſm, then I deſire them to tell us in what other way, or publick Ordinance in the Church it is to be done in Chriſts Name; for you ſee it muſt be done, or elſe they that re<g ref="char:EOLhyphen"/>ject them are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the threatning.</p>
+            <p n="2">
+               <pb n="61" facs="tcp:137074:31"/>2. In the ſecond place, Chriſt proceeds farther to inform us of the great Priviledge that thoſe little ones have by being in the Church; for they are under the Miniſtry and Charge of the holy and bleſſed Angels, as in <hi>verſe</hi> 10. where we have Chriſt introducing it with a caution to all thoſe that deſpiſe theſe Infant-diſciples, <hi>viz. Take heed that ye deſpiſe not one of theſe little ones; for I ſay unto you, that in heaven [their Angels] do always behold the face of my Father which is in heaven.</hi>
+            </p>
+            <p>But as they offend all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe little ones, by re<g ref="char:EOLhyphen"/>fuſing to receive them in Chriſts Name into the Church viſible by Baptiſm, even ſo they deſpiſe them by ſaying, What good doth Baptiſm do a young Child? And what Grace is a young Infant capable of receiving? And thus they both offend and deſpiſe them.</p>
+            <p n="3">3. If there be ſuch a dreadful threatning againſt him that ſhall offend but one of theſe little ones, which belong unto Chriſt, <hi>viz.</hi> the Seed of Be<g ref="char:EOLhyphen"/>lievers; what then is it againſt them which boldly adventure to offend and deſpiſe them all, by not receiving them in Chriſts Name into the Church by baptiſm, and juſtifie themſelves therein? <hi>It is better for them that a millſtone were hanged about their neck</hi> (ſaith the Scripture) <hi>and that he were drowned in the depth of the ſea, than to offend one of theſe little ones which believe in Chriſt.</hi> It is very ſtrange to me, that our Opponents will allow them to be of Gods Family Royal in Heaven, the inviſible Catholick Church, and yet will not allow them ſo much as a Name in the Houſe of God, the Church militant here on Earth; which is a ſpacious pre<g ref="char:EOLhyphen"/>text of allowing of them the greateſt Priviledge of all, and yet at the ſame time deny them one of the leſſer.</p>
+            <p n="4">4. Mr. <hi>D.</hi> hath publickly owned and declared that Elect dying Infants ſhall be ſaved, which I
+<pb n="62" facs="tcp:137074:32"/> own to be true; And if dying Infants are elected, then are they Heirs of Salvation; and if they are Heirs of Salvation, then are they under the con<g ref="char:EOLhyphen"/>duct and miniſtry of the holy and bleſſed Angels, and do ſhare as much in their Miniſtry as any of the Adult Elect do, as is clear from that excellent Scripture in <hi>Heb.</hi> 1. <hi>But to which of the angels ſaid he at any time, Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on my right hand, until I make thine enemies thy footſtool.</hi>
+            </p>
+            <p>
+               <hi>Are they not all miniſtring ſpirits; ſent forth to mi<g ref="char:EOLhyphen"/>niſter [for] them who ſhall be heirs of ſalvation?</hi>
+            </p>
+            <p>I humbly conceive theſe Angels here are not to be underſtood of the Biſhops, Elders, or Paſtors of the Churches, but of the inviſible Heavenly Hoſt, becauſe it is ſaid in the very next Chapter, <hi>verſe</hi> 16. <hi>He took not on him the nature of angels, but he took on him the ſeed of Abraham.</hi>
+            </p>
+            <p>Pray what account is an adult Believer capable of giving concerning the Miniſtry of Angels, theſe inviſible bleſſed Spirits of their Miniſtry for them, any more than Elect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abes in Chriſt can of their Miniſtry for them? Even none at all. Pray take notice by the way, that it is not ſaid that they do miniſter <hi>unto</hi> them, but <hi>[for]</hi> them: And there<g ref="char:EOLhyphen"/>for a young Child is as capable of the Miniſtry of of thoſe Angelical Spirits, as any Adult Believer is whatſoever. O what a bleſſed Priviledge is it for perſons to be under the condu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and miniſtry of Angels! for they are their Life-guard, <hi>Pſal.</hi> 91. <hi>For he ſhall give his angels charge over thee, to keep thee in all thy ways. They ſhall hear thee up in their hands, leſt thou daſh thy foot againſt a ſtone.</hi> What an Honour is this? that the great and glorious Majeſty of Heaven and Earth ſhould condeſcend to Men of ſuch a low degree and ex<g ref="char:EOLhyphen"/>tract, as to provide ſuch a guard as this is for them; and this Honour have all the Saints, both old and young. O the admirable preventing love and Grace of God!</p>
+            <p n="5">
+               <pb n="63" facs="tcp:137074:32"/>5. The Miniſtry of Angels lyeth principally next unto that in the Church in aſſiſting and miniſtring for the Elect when they are leaſt ca<g ref="char:EOLhyphen"/>pable of the miniſtry of Men; and that eſpecially with a reſpect to two Seaſons, namely, the hour of the believers death, and to Elect Infants, as appears by our Saviour Chriſts words; firſt at the believers hour of death, in <hi>Luke</hi> 16. <hi>And it came to paſs that the beggar died, and was carried by the angels into Abrahams boſome,</hi>—</p>
+            <p n="2">2. The Angels miniſters for Elect Infants in the Church, who are Heirs of ſalvation, <hi>Mat.</hi> 18. <hi>Take heed that ye deſpiſe not one of theſe little ones, for I ſay unto you, that in heaven [their] angels do al<g ref="char:EOLhyphen"/>ways behold the face of my Father which is in heaven.</hi>
+            </p>
+            <p>Therefore we ought to dedicate all our children to God in baptiſm, by which they are more near<g ref="char:EOLhyphen"/>ly received into the boſome of the Church; for we ought not to reprobate our own children, but to deal with them as if we knew they were all Elected; the particular knowledge of which God hath reſerved to himſelf; for it is his Pre<g ref="char:EOLhyphen"/>rogative to know that, and not ours.</p>
+            <p>Thus I have proved that the dedication of our children to God by Faith in Prayer, in ſecret, private, and publick, is an Ordinance of God; for it is a ſolemn offering up our children as a Sacrifice to God through Chriſt, and not to <hi>Mo<g ref="char:EOLhyphen"/>loch,</hi> as ſome of our Opponents have blaſphe<g ref="char:EOLhyphen"/>mouſly ſtiled it.</p>
+            <p n="3">3. Mr. <hi>D.</hi> doth grant that all elect dying In<g ref="char:EOLhyphen"/>fants are in the Inviſible and Catholick Church, but will not by any means allow them to be in the Church viſible: And farther ſaith, <hi>We have no Rule to put them into the Church viſible by baptiſm:</hi> To which I thus reply, <hi>viz.</hi> Mr. <hi>D.</hi> ſhould firſt have ſhewn himſelf a skilful Logician, by proving that [ever] the Infant-ſeed of Believers were caſt out
+<pb n="64" facs="tcp:137074:33"/> the Church viſible, by the perſonal coming of Chriſt in the New Diſpenſation of the Goſpel, before he had talked of putting them into the Church viſible by baptiſm. Indeed, Baptiſm is a viſible receiving them nearer into the Church than they were before; for they were in Chriſt exter<g ref="char:EOLhyphen"/>nally before they were baptized, by vertue of their Covenant-relation, as being the Seed of believing Parents, 1 <hi>Cor.</hi> 7.14. though all that are thus in Chriſt, may not be ſaved; for Chriſt hath exter<g ref="char:EOLhyphen"/>nal Branches in him, which he will never own at the Great Day, <hi>John</hi> 15. <hi>Every branch in me that heareth not fru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> away.</hi> And thus who<g ref="char:EOLhyphen"/>ſoever receiveth theſe little ones in Chriſts Name into the Church by baptiſm, receiveth Chriſt himſelf.</p>
+            <p n="2">2. Mr. <hi>D.</hi> ſhould alſo have clearly demonſtra<g ref="char:EOLhyphen"/>ted and proved, what perſonal Actual ſin and tranſgreſſion thoſe young babes commited againſt God, which provoked him to caſt them all out of the Church viſible, in which they had been from the beginning, in the firſt Being or Formation of the Church, before he had told us we have no Rule to put them into the Church viſible by baptiſm; for otherwiſe, all his Arguments againſt Infant-baptiſm do but puzzle the Cauſe, and are but as ſo many Arrows ſhot againſt a brazen Wall.</p>
+            <p n="3">3. Becauſe all the Infant-ſeed of the Jews and Proſelytes were Members of the Church viſible under the Ceremonial Law, and the Goſpel of Grace, did not diminiſh the Priviledge of the In<g ref="char:EOLhyphen"/>fant-ſeed of Believers, it did not bring leſs Grace, but more than there was in the Ceremonial Law: And therefore the Infant-ſeed of believing Church members are ſtill members of the Church viſible now under the New Diſpenſation of the Goſpel, and have a Right to the Ordinance of Water-baptiſm.</p>
+            <pb n="65" facs="tcp:137074:33"/>
+            <p>Thus you ſee Mr. <hi>D.</hi> hath drawn a Concluſion without any Premiſes; which is to build a Houſe without a foundation, or a Caſtle in the Air: And this bringeth me to the Ninth and laſt Thing.</p>
+            <p n="9">9. And laſtly: Saith our Authour in <hi>page</hi> 4. <hi>The Goſpel-Church hath its Matter and Form fully pre<g ref="char:EOLhyphen"/>ſcribed in the New Teſtament, its Laws and Ordi<g ref="char:EOLhyphen"/>nances of Worſhip, and Subjects that are to be found in the practice of theſe. And their qualifications; this is what we ſtick by, and dare go no further; the frame of the Jewiſh Church having had its day and end, we look upon it as taken down to admit a more glorious Diſpenſation.</hi>
+            </p>
+            <p>Now our next buſineſs is to inquire what diffe<g ref="char:EOLhyphen"/>rence there was between the Church frame under the Ceremonial Law, and the New Diſpenſation of the Goſpel, and try whether we can find any ſuch capital difference as will favour our Authors Principles.</p>
+            <p n="1">1. Therefore in the firſt place, What is all this which Mr. <hi>D.</hi> ſaith, to the purpoſe? For he hath not told us where it is to be found in the N. Teſtament, that the Matter, Form, Laws, and Ordinances of Worſhip in the Goſpel Church, are ſo fully preſcribed as to exclude the Infant-ſeed of Believers from being Members thereof. But I find many Queries not anſwered, and the moſt of our Authors Poſitions unproved: But I have already fully proved that there muſt be nothing in the Goſpel New Diſpenſation of the Matter, Form, Laws, Ordinance of Worſhip and Subjects, <hi>&amp;c.</hi> but what muſt anſwer to the Matter, Form, Laws, Ordinances of Worſhip and Subjects of the Church under the Ceremonial Law; and I ſhall now cor<g ref="char:EOLhyphen"/>roborate it, by what I ſhall add by clear Scrip<g ref="char:EOLhyphen"/>ture Proof, as followeth in <hi>Exod.</hi> 25.40. <hi>Acts</hi> 7.44. <hi>Heb.</hi> 8.4, 5. <hi>Heb.</hi> 10.1.</p>
+            <p n="2">
+               <pb n="66" facs="tcp:137074:34"/>2. That the frame of the Jewiſh Church was made more glorious at the coming in of the Goſpel New Diſpenſation, I readily grant; but the ſtate of the Church was never altered, and the Materials or Subjects are ſtill of the very ſame kind without any ſubſtantial variation. 2. Their ſpiritual Food in Gods Houſe, the Church, is ſtill the very ſame, though under a better and more glorious Diſpenſation.</p>
+            <p n="3">3. If Mr. <hi>D.</hi> could have proved that the ſtate of the Church had been plucked up by the roots, and the Covenant diſſolved, and that it was but a carnal Conſtitution, as Mr. <hi>H. C.</hi> and Mr. B. <hi>K.</hi> laboured in vain to do, as may be ſeen in their Books againſt me; then Mr. <hi>D.</hi> might have gained the Point; but he is wiſer than to attempt ſuch a groſs Abſurdity, which borders upon blaſphemy, and therefore he hath rather choſen to contradict thoſe two populous Authors or Champions.</p>
+            <p n="4">4. The Jews and all their children under the Law, were Members of the Church viſible, and the ſtate of the Church was never altered: There<g ref="char:EOLhyphen"/>fore all the children of Chriſtian believers are Members with their Parents of the Church viſible [alſo,] now under the Goſpel Diſpenſation, unleſs any of them ſin themſelves out of it when they are grown Perſons, <hi>John</hi> 15.2. <hi>Rom.</hi> 11.17. But that the ſtate of the Church was never alter<g ref="char:EOLhyphen"/>ed, I ſhall prove as followeth.</p>
+            <p n="1">1. The Jewiſh Church ſtate was built upon the Rock of Ages, namely, that ſpiritual Rock Chriſt Jeſus, as in 1 <hi>Cor.</hi> 10.3.</p>
+            <p n="2">2. The Church hath its Foundation in the Co<g ref="char:EOLhyphen"/>venant of Grace, of which Chriſt is the chief Corner-ſtone, <hi>Iſa.</hi> 28.16.</p>
+            <p n="3">3. The Covenant of Grace was firſt declared and made with <hi>Adam,</hi> immediately after the Fall; for <hi>Adam</hi> had the Goſpel Preached firſt to him by
+<pb n="67" facs="tcp:137074:34"/> God himſelf, who ſpake as never Man ſpake like him, <hi>Gen.</hi> 3.15.</p>
+            <p n="4">4. <hi>Noah</hi> was a Preacher of Righteouſneſs, 2 <hi>Pet.</hi> 2.5. that was, he Preached the Goſpel; for he that doth not preach up the Righteouſneſs of Chriſt, for Juſtification, Satisfaction, Sanctifica<g ref="char:EOLhyphen"/>tion, and Salvation, doth not Preach the Goſpel; for the Righteouſneſs of Chriſt is the very Mar<g ref="char:EOLhyphen"/>row and Quinteſſence of the Goſpel.</p>
+            <p n="5">5. <hi>Abraham</hi> had the Goſpel Preached unto him, as in <hi>Gal.</hi> 3.8. <hi>And the ſcripture foreſeeing that God would juſtifie the heathen through faith, preached be<g ref="char:EOLhyphen"/>fore the Goſpel unto Abraham: ſaying, In thee ſhall all nations be bleſſed.</hi> Pray obſerve; The Goſpel is that which was Preached before unto <hi>Abraham,</hi> that was when God firſt bleſſed <hi>Abraham;</hi> and in him both Jews and Gentiles, at his firſt eſta<g ref="char:EOLhyphen"/>bliſhing his Covenant with him, in <hi>Gen.</hi> 12.3. <hi>And I will make of thee a great nation, and I will bleſs thee, and make thy name great; and thou ſhalt be a bleſſing. And I will bleſs them that bleſs thee, and curſe him that curſeth thee: and in thee ſhall all the families of the earth be bleſſed.</hi>
+            </p>
+            <p n="2">2. This Preaching the Goſpel before unto <hi>A<g ref="char:EOLhyphen"/>braham;</hi> 1. It was before the Covenant was ſo fully declared and eſtabliſhed with him; And 2. before God had changed his Name: 3. And laſtly, It was before God had fixed [a] Token unto the Covenant. All which you have in <hi>Gen.</hi> 17.5, 7, 11. <hi>Neither ſhall thy name any more be called Abram; but thy name ſhall be called Abraham, for a father of many nations have I made thee. And I will eſta<g ref="char:EOLhyphen"/>bliſh my covenant between me and thee, and thy ſeed after thee, in their generations, for an everlaſting covenant; to be a God unto thee, and to thy ſeed after thee. And ye ſhall circumciſe the fleſh of your fore-skin, and it ſhall be [a] token of the covenant be<g ref="char:EOLhyphen"/>twixt me and you.</hi>
+            </p>
+            <pb n="68" facs="tcp:137074:35"/>
+            <p>The Covenant was as much a Covenant to <hi>Abraham</hi> before God added [<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>] Token unto <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, as it was unto him after, as is alſo clear from Verſe 4. <hi>As for we, behold, my covenant is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee, and thou ſhalt be a father of man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> God did not change nor alter his Covenant with <hi>Abraham</hi> when he added: Token to it, though he changed his Name.</p>
+            <p>Thus you ſee (1.) by whom the Goſpel was preached unto <hi>Abraham:</hi> (2) When it was preached unto him: (3.) How is was preached unto him: (4.) And laſtly: What the Goſpel was that was preached before unto him: Why, it was the Covenant of Grace it ſelf in the firſt broaching of it to <hi>Abra<g ref="char:EOLhyphen"/>ham:</hi> Which utterly deſtroys that new invented Notion of a Covenant of Peculiarity made with <hi>Abraham</hi> of Circumciſion: That is to place the Token of the Covenant in the room of the Covenant it ſelf, which is abſurd and falſe. And this we muſt obſerve alſo, that this was not the firſt broaching of this Ce<g ref="char:EOLhyphen"/>leſtial Liquor, <hi>viz.</hi> the Goſpel, though it was ſo to <hi>Abraham</hi> and his Seed; for it was firſt broached and ſet a running to <hi>Adam,</hi> immediately after the Fall, and hath run down upon his Poſterity ever ſince, from Generation to Generation, and will continue to the end of the World: So that to Preach up the Covenant is to Preach the Goſpel.</p>
+            <p>Hence by the way I infer, How unfit all thoſe are who take upon them the Miniſtry of the Goſpel, that diſown the Cove<g ref="char:EOLhyphen"/>nant, that are ſo ignorant of theſe profound Myſteries, that cannot diſtinguiſh between the Covenant and the Token thereof.</p>
+            <p n="2">2. That the Church-ſtate is ſtill the ſame, and the ſubſtantial Matter and Form the ſame now as it was under the Law, plainly appears by our Saviours Words to the unbelieving Jews, who were then Members of the Church viſible, as in <hi>Mat.</hi> 21. <hi>Therefore the kingdom of heaven ſhall be taken from you, and gives to a nation bringing forth the fruit thereof.</hi> And in <hi>Mat.</hi> 8. <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I ſay unto you, that many ſhall come from the eaſt, and weſt, and ſhall ſit down with Abraham, and Iſaac, and Jacob, in the kingdom of hea<g ref="char:EOLhyphen"/>ven.</hi> That is, they ſhall be brought into the ſame Covenant which God eſtabliſhed with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and into the ſame Goſpel-Church as they and their Seed were in; for this cannot be meant of the Kingdom of Heaven above for none can be caſt out of that as theſe were to be in the remain<g ref="char:EOLhyphen"/>der of the Verſe: Mind it: —<hi>but the children of the kingdom ſhall be caſt out into outer darkneſs; there ſhall be weeping <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gnaſhing of teeth.</hi>
+            </p>
+            <p n="1">1. From hence we may obſerve, that the unbelieving Jews were to be caſt out of the Church or Kingdom of Heaven, and the Elect Gentiles were to be taken in for them in their room; which did not deſtroy the Conſtitution of the Church no more than the caſting out of Hypocrites out of a Church doth now; but it was to purge and refine the Church from all its chaffe
+<pb n="69" facs="tcp:137074:35"/> Hypocrites, and to gather in the Elect Gentile-wheat into the Garner, <hi>Mat.</hi> 3. <hi>Whoſe fan is in his hand, and he will throughly purge his floor and gather his wheat into the garner: but he will burn up the ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff with unquenchable fire.</hi>
+            </p>
+            <p n="2">2. When this Threatning was executed, <hi>viz.</hi> when the un<g ref="char:EOLhyphen"/>believing Jews and their Children were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt out, the believing Jews which remained in the Church, their Children remained in the Church with them, and God did take the Adult Elect Gentiles and their Children into the Church together; he did not take in their Parents, and ſhut out and exclude their Children, as is clear from <hi>Acts</hi> 2.39. <hi>Rom.</hi> 11.17.</p>
+            <p n="3">3. The Church ſtate, which is the Kingdom of Heaven, is the ſame now as it was in the Beginning in <hi>Adam</hi>'s Time, after the Fall, and ever will be to the End of the World; and the Covenant of Grace is the ſame, in whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h all the Matter, Form, Laws, and Ordinances of Worſhip, and Subjects are contained, though ſome of the unbelieving Jews and their Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldren were caſt out, eſpecially of thoſe who were actually concerned in condemning our Saviour Chriſt, by which they intailed a Curſe upon their Poſterity [when] they ſaid, <hi>His blood be on us, and on our children,</hi> Mat. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.25.</p>
+            <p n="4">4. And laſtly: The ſtate of the Church is, and ever was, in<g ref="char:EOLhyphen"/>diſſolvable, though it is locally m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>table; God may, and he hath taken it from one place and fixed it in another, and re<g ref="char:EOLhyphen"/>move it from one People of Nation and beſtow in upon another.</p>
+            <p n="2">2. I ſhall alſo prove the Church ſtate is the ſame now as it was under the Old Teſtament, and the Frame the ſame ſubſtantially, but in a more glorious Dreſs, as farther appears from the Apo<g ref="char:EOLhyphen"/>ſtles Doctrine in <hi>Eph.</hi> 2. <hi>Now therefore ye are no more ſtrangers and forreiners, but fellow-citizens with the ſaints, and of the hou<g ref="char:EOLhyphen"/>ſhold of God; And are built upon the foundation of the apoſtles and prophets, Jeſus Chriſt himſelf being the chief corner-ſtone; In whom all the building fuly framed together, groweth unto an holy temple in the Lord; In whom [you alſo] are builded together for an ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itation for God through the Spirit.</hi> Here are ſeveral Things to be obſerved.</p>
+            <p n="1">1. Thoſe whom the Apoſtle Preached this Doctrine unto were the then called Gentiles, who were come from the Eaſt, and Weſt and were ſat down with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> in the Kingdom of Heaven; and the Children of the King<g ref="char:EOLhyphen"/>dom, <hi>viz.</hi> The Reprobate Jewes and their Children, were caſt out.</p>
+            <p n="2">2. The believing Jews, which kept their ſtation in the Church, were theſe Citizens and Saints.</p>
+            <p n="3">3. That the Gentiles before their Converſion were Strangers and Forreiners to this City, but were then Fellow-citizens with the believing Jewes and their Children, the Citizens aforeſaid.</p>
+            <p n="4">
+               <pb n="70" facs="tcp:137074:36"/>4. They were taken into the Family Royal of Heaven, the Houſhold of God, who before <hi>were Gentiles in the fleſh, with out Chriſt, being aliens from the common-wealth of Iſrael, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtrangers from the covenants of promiſe, having no hope and without God in the world,</hi> Eph. 2.12.</p>
+            <p n="5">5. Theſe Gentiles, as miſerable and vile as they were, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Time, were not only made Fellow citizens with the Saints but alſo <hi>fellow heirs with them, of the ſame body, and partakers of his promiſe in Chriſt, by the goſpel.</hi> Now thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was ſpoken to the Gentiles by name, as in <hi>Eph.</hi> 3.6.</p>
+            <p n="6">6. The foundation of the Church of Chriſt was to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Doctrine of the Prophets in the Old Teſtament, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame with the Apoſtles Doctrine in the New Teſtament and Chriſt himſelf is the chief Corner-ſtone, in whom all the Building is joined exactly together, and groweth unto an holy Temple in the Lord, an Habitation for God.</p>
+            <p n="7">7. And laſtly: All the believing Hebrews, and all their chil<g ref="char:EOLunhyphen"/>dren, and all the believing Gentiles, and theirs, maketh but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Myſtical Body, which is the Church, <hi>Eph.</hi> 3.6.</p>
+            <p n="4">4. The Church under the Law was a Golden Candleſtick, <hi>Exod.</hi> 25. <hi>And thou ſhalt make a candleſtick of puregold,</hi> &amp;c. <hi>Zech.</hi> 4. —<hi>What ſeeſt thou? And I ſaid, I have looked, and behold, a candleſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k all of gold,</hi> &amp;c. This was the Goſpel-church in the Old Teſtament-Times: 1. Gold to ſignifie the Matt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Subjects of it: 2. Pure Gold to ſignifie the holineſs and purity of it: 3. A Candleſtick to ſignifie the Form of it: 4. And laſtly: A Candleſtick to ſignifie the uſefulneſs of the Church; for as a Candleſtick is to ſet up a Light in, even ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Church: It is a City built upon a Hill.</p>
+            <p n="2">2. Compare this with the Churches in the New Teſtament, in <hi>Rev.</hi> 1. <hi>And I turned to ſee the voice that ſpake with me. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being turned, I ſaw ſeven golden candleſticks. —and the ſeven golden candleſticks which thou ſaweſt, are the ſeven churches</hi>
+            </p>
+            <p>Now I would fain know of our Author where lyes the diffe<g ref="char:EOLhyphen"/>rence; for my part, I can ſee none but this, namely, There was but one Candleſtick of pure Gold in the Old Teſtament, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was but one Church or Congregation, which was all the Nation; and there are ſeven in the New Teſtament, which is a certain number ſet for an uncertain; but all of Gold under both Diſ<g ref="char:EOLhyphen"/>penſations, <hi>viz.</hi> all Goſpel holy Churches.</p>
+            <p n="3">3. And laſtly: The Goſpel Church in the Old Teſtament lived upon the ſame Food as the Goſpel-Churches of Chriſt do now in the New Teſtament, and as theſe Churches are bapti<g ref="char:EOLhyphen"/>zed Churches, ſo was that one Church in the Old Teſtament, for all the Members of it, men, women, and children, were bapti<g ref="char:EOLhyphen"/>zed. Hear is a clear Scripture-proof for it, let who as will or dare deny it: 1 <hi>Cor.</hi> 10. <hi>Moreover, brethren, I would not that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould be ignorant, how that all our fathers were under the cloud,
+<pb n="71" facs="tcp:137074:36"/> and all paſſed through the ſea; And were all baptized unto Moſes in the cloud, and in the ſea: And did all eat the ſame spiritual meat; And did all drink the ſame spiritual drink: (For they drank of that spiritual Rock that followed them, and that Rock wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt.</hi> On this Rock the Church was built, immediately after <hi>Adam</hi>'s Fall, and on this Rock it hath ſtood ever ſince, and ever will to the end of the World, and the gates of Hell ſhall never be able to preva l againſt it, for Chriſt doth watch over it and keep it.</p>
+            <p>Thus I have proved what the Preſcription of the Church in the New Teſtament is, though Mr. <hi>D.</hi> was not ſo kind as to do it; and alſo of the Old Teſtament, and demonſtrated the Matter, Form, Laws, and Ordinances of Worſhip, and the ſubjects alſo, and I find them joined together, and ſo I leave them; for I dare not part them aſunder: For though this Diſpenſation is more glorious than that of the Old Teſtament was, yet it is the ſame for ſubſtance: 1. It was made of the ſame Mettle, <hi>viz.</hi> Gold: 2. It was of the ſame quality, fine Gold: 3. The ſame Subjects, <hi>viz.</hi> Parents and Children: 4. The Church was of the ſame Form, <hi>viz.</hi> a Candleſtick: 5. It was of the ſame uſe, <hi>viz.</hi> it was for Light; for the Laws and Ordinances of Worſhip are for Light: Indeed, Satans Kingdom is a Kingdom of Darkneſs; but Chriſts Kingdom is a Kingdom of Light. 6. And laſtly: They lived upon the very ſame Food as the Churches of God now do.</p>
+            <p>And thus I have proved the Title of this my Book: For Infant-Baptiſm and Church-Memberſhip is of Divine Inſtitution, and the Mode of Baptiſm I have alſo proved to be by Sprinkling; for it is one of the Heavenly Things.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>HAving finiſhed my Diſcourſe at this time, concerning the Infant-ſeed of Chriſtian Believers, I now come in the firſt place to addreſs my ſelf in particular unto my loving Friend Mr. <hi>B. D.</hi> who hath ſaid in <hi>p. 8.</hi> as followeth: <hi>For many Years I have attended to ſee what could be made of this Argument, of the neceſſity of Baptiſm to Infants; and could I have found it proved, I would not have been an Hour out of your Tents.</hi>
+            </p>
+            <p>Now, Sir, you have ſeen it proved to be of as much neceſſity as Circumciſion was under the Law to the Eight-day Diſciples; for the Infant ſeed of Believers are fixed in the ſame ſtation in the Church now, as the Jews Children were then; for they were never excluded. <hi>2.</hi> It is neceſſary it ſhould be ſo; for you ſee I have fully proved that God commands it. <hi>3.</hi> It is a Badge of Honour, and Token of Gods Covenant-Love and Grace to the Seed of believ<g ref="char:EOLhyphen"/>ing Parents, who are ſtiled holy Children, <hi>1 Cor. 7.14. 4.</hi> And
+<pb n="72" facs="tcp:137074:37"/> laſtly: Circumciſion was the Type of Baptiſm, which is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heavenly Things. Now my good Friend, if you dare ve<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> There was no neceſſity for thoſe Things aforeſaid, then you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that there is no neceſſity for Infant-Baptiſm; for you ſee th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proved Infant-Baptiſm and Church-Memberſhip, <hi>1.</hi> From <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ample of <hi>John</hi> the Baptiſt: <hi>2.</hi> From Chriſts Command <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Apoſtles Argumentative Exhortation, or <hi>Mandamus.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laſtly: From their Covenant-relation to God, who hath pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be the Believers God, and the God of his Seed, and of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seed, <hi>Pſal. 105.8, 9, 10.</hi> Whereever God layeth his Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is an abſolute neceſſity of Obedience.</p>
+            <p>Now, Sir, I expect you ſhould comply with your Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make haſte, and delay not to come into our Tents, or ſhew cauſe in Print why you will not; for I humbly (yet boldly longe you to do one or the other; either to confute it, or of it.</p>
+            <p n="2">
+               <hi>2.</hi> I addreſs my ſelf to all you that are of this Opinion, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not read our Books about this Controverſie, but paſs a de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sentence upon them, and condemn them without Book <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Popiſh Prieſts and Jeſuits do; for they judge and c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Books and Doctrines to be heretical, and charge the People hear them on pain of damnation. But methinks, no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that are called Proteſtants ſhould be found guilty of imita<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Papiſts. Pray, for the future, either forbear that ung<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chriſtian Practice of yours, which ſome of you are guilty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowledge, by their own confeſſion, of judging Books withou<g ref="char:EOLunhyphen"/>ing them; And if you cannot co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fute them, then comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them: It is a greater Honour to recant and renounce <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when detected, than to cleave to it. <hi>Laſtly,</hi> Do not me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truths of God by the Paſſions and Infirmities of the In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God makes uſe of to declare them; for <hi>Martin Lut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> an Eminent Saint in his Day, yet very paſſionate: And, that is perfectly clear of this Sin, caſt the firſt ſtone at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus condemn.</p>
+            <p>Thus I leave a Challenge with you all, to Anſwer this my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord give you ſpiritual skill and underſtanding in theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Covenant-Myſteries, that we may all embrace the Truth, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus, and be of one Heart, and one Mind, fervent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerving the Lord with one Conſent: And ſo dear Friends, to you all.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
